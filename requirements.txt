@@ -1,0 +1,18 @@
+# Tested on Windows x64, Python 3.12. Models are installed explicitly by Setup-DHAROHAR.ps1.
+fastapi==0.141.1
+uvicorn==0.54.0
+pydantic==2.13.5
+python-dotenv==1.2.3
+httpx==0.28.1
+PyMuPDF==1.28.2
+numpy==2.5.3
+onnxruntime==1.30.0
+tokenizers==0.23.2
+faster-whisper==1.2.1
+ctranslate2==4.8.2
+huggingface-hub==1.33.0
+python-multipart==0.0.32
+websockets==15.0.1
+beautifulsoup4==4.14.3
+pytest==9.1.1
+piper-tts==1.4.2

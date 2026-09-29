@@ -1,0 +1,62 @@
+[
+  {
+    "lang": "en",
+    "claim": "Ambedkar defined constitutional morality as a sentiment that is not natural but must be cultivated, noting that his people had yet to learn it.",
+    "scores": [
+      0.25155073404312134,
+      0.7093310356140137,
+      0.03911817446351051
+    ],
+    "seconds": 0.23399999999674037
+  },
+  {
+    "lang": "en",
+    "claim": "He argued that without this cultivated morality, democracy remains fragile, and extra-constitutional methods like satyagraha must be ruled out in post-independent politics.",
+    "scores": [
+      0.0970688909292221,
+      0.843672513961792,
+      0.05925861373543739
+    ],
+    "seconds": 0.20300000000133878
+  },
+  {
+    "lang": "en",
+    "claim": "Ambedkar argued that caste denies democratic ideals by organizing society on rigid lines that prevent Indians from eating, marrying, or voting freely.",
+    "scores": [
+      0.06895007938146591,
+      0.8761908411979675,
+      0.05485907196998596
+    ],
+    "seconds": 0.18699999999807915
+  },
+  {
+    "lang": "en",
+    "claim": "He believed the Brahmin caste would oppose abolition because it would destroy their own power and prestige within Hindu society.",
+    "scores": [
+      0.08047259598970413,
+      0.8796331882476807,
+      0.03989417105913162
+    ],
+    "seconds": 0.18800000000192085
+  },
+  {
+    "lang": "hi",
+    "claim": "संवैधानिक नैतिकता का अर्थ है संविधान के नियमों का गहरा सम्मान, जिसमें सत्ता के प्रति अनुपालन और उस पर निष्पक्ष आलोचना का मिश्रण शामिल है।",
+    "scores": [
+      0.00685115484520793,
+      0.9798414707183838,
+      0.013307358138263226
+    ],
+    "seconds": 0.1559999999954016
+  },
+  {
+    "lang": "hi",
+    "claim": "यह एक प्राकृतिक भावना नहीं है, बल्कि इसे संस्कृति करना होगा, क्योंकि भारतीय समाज अभी इसे सीखने में असमर्थ है।",
+    "scores": [
+      0.014418515376746655,
+      0.9416518807411194,
+      0.0439295619726181
+    ],
+    "seconds": 0.1559999999954016
+  }
+]

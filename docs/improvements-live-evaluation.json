@@ -1,0 +1,365 @@
+{
+  "checked_at": "2026-09-26 19:37:27",
+  "chat": [
+    {
+      "question": "Hello",
+      "expected": "social",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "Hello! I’m here to help you explore Dr. Ambedkar’s archive. What would you like to discover together?",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [],
+        "elapsed_ms": 267,
+        "timings": {
+          "routing_ms": 267
+        },
+        "grounding": {
+          "status": "social",
+          "checks": [],
+          "notice": null
+        }
+      }
+    },
+    {
+      "question": "How are you?",
+      "expected": "social",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "I’m doing well, thank you. I’m an AI guide to Dr. Ambedkar’s archive. Would you like to explore his work with me?",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [],
+        "elapsed_ms": 258,
+        "timings": {
+          "routing_ms": 258
+        },
+        "grounding": {
+          "status": "social",
+          "checks": [],
+          "notice": null
+        }
+      }
+    },
+    {
+      "question": "What are you?",
+      "expected": "social",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "I’m DHAROHAR, your guide to Dr. Ambedkar and his archive. Let’s explore his life and work together.",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [],
+        "elapsed_ms": 281,
+        "timings": {
+          "routing_ms": 281
+        },
+        "grounding": {
+          "status": "social",
+          "checks": [],
+          "notice": null
+        }
+      }
+    },
+    {
+      "question": "What is constitutional morality?",
+      "expected": "source_checked",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "Constitutional morality means a deep respect for the Constitution’s forms, combining obedience to lawful authority with open criticism and confidence that its rules remain sacred even during bitter political contests. It is the essential spirit that gives life to a democratic constitution’s legal skeleton. [1] [2] [3]\n\nThis morality must be cultivated because it is not natural; it requires that administration align with constitutional forms, or the constitution’s spirit can be undermined without any formal change. Without widespread adherence, details of governance must be explicitly written into the constitution itself. [1] [2] [4]",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [
+          {
+            "id": 1,
+            "document_id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+            "title": "Constituent Assembly Draft Making Debates · 4-Nov-1948",
+            "page": 42,
+            "quote": "ffusion of constitutional morality, not merely among the majority of any community but throughout the whole, is the indispensable condition of government at once free and peaceable; since even any powerful and obstinate minority may render the working of a free institution impracticable, without being strong enough to conquer ascendency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrain edcen sure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear.) While everybody recognizes the necessity of the diffusion of Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution."
+          },
+          {
+            "id": 2,
+            "document_id": "writing-volume_13",
+            "title": "Writings & Speeches · Volume 13",
+            "page": 93,
+            "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+          },
+          {
+            "id": 3,
+            "document_id": "writing-volume_17_03",
+            "title": "Writings & Speeches · Volume 17 · Part 3",
+            "page": 509,
+            "quote": "may completely abnegate and abolish the thing we have had so far. Condition No. IV The fourth condition precedent, in my judgement, for the successful working of democracy is the observance of constitutional morality. Many people seem to be very enthusiastic about the Constitution. Well, I am afraid, I am not. I am quite prepared to join that body of people who want to abolish the Constitution, at any rate to redraft it. But what we forget is that we have a Constitution which contains legal provisions, only a skeleton. The flesh of that skeleton is to be found in what we call constitutional morality. However, in England it is called the conventions of the constitution and people must be ready to observe the rules of the game. Let me give you one or two illustrations which come to my mind at this moment. You remember when the 13 American colonies rebelled, their leader was Washington. It is really a very inadequte way of defining his position in the American life of that day merely to say that he was a leader. To the American people Washington was God. If you read his life and history, he was made the first President of the United States after the constitution was drafted. After his term was over, what happened? He refused to stand for the second time."
+          },
+          {
+            "id": 4,
+            "document_id": "writing-volume_13",
+            "title": "Writings & Speeches · Volume 13",
+            "page": 94,
+            "quote": "61 CONSTITUENT ASSEMBLY DEBATES one described by Grote, the historian that one can take the risk of omitting from the Constitution details of administration and leaving it for the Legislature to prescribe them. The question is, can we presume such a diffusion of Constitutional morality ? Constitutional morality is not a natural sentiment. It has to be cultivated. We must realize that our people have yet to learn it. Democracy in India is only a top-dressing on an Indian soil, which is essentially undemocratic. In these circumstances it is wiser not to trust the Legislature to prescribe forms of administration. This is the justification for incorporating them in the Constitution. Another criticism against the Draft Constitution is that no part of it represents the ancient polity of India. It is said that the new Constitution should have been drafted on the ancient Hindu model of a State and that instead of incorporating Western theories the new Constitution should have been raised and built upon village Panchayats and District Panchayats. There are others who have taken a more extreme view. They do not want any Central or Provincial Governments. They just want India to contain so many village Governments. The love of the intellectual Indians for the village community is of course infinite if not pathetic (laughter). It"
+          }
+        ],
+        "elapsed_ms": 3641,
+        "timings": {
+          "routing_ms": 0,
+          "retrieval_ms": 1829,
+          "generation_ms": 758,
+          "verification_ms": 1052
+        },
+        "grounding": {
+          "status": "source_checked",
+          "checks": [
+            "Source IDs validated",
+            "Source-only synthesis",
+            "Batched support review"
+          ],
+          "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+        }
+      }
+    },
+    {
+      "question": "Explain social democracy simply.",
+      "expected": "source_checked",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "सामाजिक लोकतंत्र एक जीवन शैली है जो स्वतंत्रता, समानता और बंधुत्व को आधार मानती है। यह केवल राजनीतिक लोकतंत्र से आगे बढ़कर समाज में सभी के लिए समान मूल्य और अवसर सुनिश्चित करता है, ताकि कुछ लोगों का वर्चस्व न रहे। [1]\n\nइसके बिना राजनीतिक स्वतंत्रता अधूरी है, क्योंकि समानता के बिना स्वतंत्रता कुछ लोगों को दूसरों पर हावी कर देगी। यह एक ऐसे समाज की मांग करता है जो कठोर बाधाओं से मुक्त हो, जहां हर व्यक्ति सम्मान और समानता के साथ जी सके। [1] [2]",
+        "language": "hi",
+        "provider": "sarvam",
+        "citations": [
+          {
+            "id": 1,
+            "document_id": "debate-aad33de6-ec92-47a9-a8b5-16bab1d210fc",
+            "title": "Constituent Assembly Draft Making Debates · 25-Nov-1949",
+            "page": 60,
+            "quote": "thing we must do is not to be content with mere political democracy. We must make our political democracy a social democracy as well. Political democracy cannot last unless there lies at the base of it social democracy. What does social democracy me? It means a way of life which recognizes liberty, equality and fraternity as the principles of life. These principles of liberty, equality and fraternity are not to be treated as separate items in a trinity. They form a union of trinity in the sense that to divorce one from the other is to defeat the very purpose of democracy. Liberty cannot be divorced from equality, equality cannot be divorced from liberty. Nor can liberty and equality be divorced from fraternity. Without equality, liberty would produce the supremacy of the few over the many. Equality without liberty would kill individual initiative. Without fraternity, liberty and equality could not become a natural course of things. It would require a constable to enforce them. We must begin by acknowledging the fact that there is complete absence of two things in Indian Society. One of these is equality. On the social plane, we have in India a society based on the principle of graded inequality which means elevation for some and degradation for others. On the economic plane, we have a society in which there are some who have immense wealth as against many who live"
+          },
+          {
+            "id": 2,
+            "document_id": "writing-volume_01",
+            "title": "Writings & Speeches · Volume 1",
+            "page": 237,
+            "quote": "le. Their contention was founded on a series of fallacies. A democratic form of Government presupposes a democratic form of society. The formal framework of democracy is of no value and would indeed be a misfit if there was no social democracy. The politicals never realized that democracy was not a form of Government : it was essentially a form of society. It may not be necessary for a democratic society to be marked by unity, by community of purpose, by loyalty to public ends and by mutuality of sympathy. But it does unmistakably involve two things. The first is an attitude of mind, an attitude of respect and equality towards their fellows. The second is a social organization free from rigid social barriers. Democracy is incompatible and inconsistent with isolation and exclusiveness, resulting in the distinction"
+          }
+        ],
+        "elapsed_ms": 1642,
+        "timings": {
+          "routing_ms": 0,
+          "retrieval_ms": 100,
+          "generation_ms": 661,
+          "verification_ms": 880
+        },
+        "grounding": {
+          "status": "source_checked",
+          "checks": [
+            "Source IDs validated",
+            "Source-only synthesis",
+            "Batched support review"
+          ],
+          "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+        }
+      }
+    },
+    {
+      "question": "Did Ambedkar invent the internet in 1922?",
+      "expected": "insufficient",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "I could not support an answer from the archive material available to me. Try a more specific question or open a related document.",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [],
+        "elapsed_ms": 1523,
+        "timings": {
+          "routing_ms": 0,
+          "retrieval_ms": 76,
+          "generation_ms": 552,
+          "verification_ms": 895
+        },
+        "grounding": {
+          "status": "insufficient",
+          "checks": [],
+          "notice": null
+        }
+      }
+    },
+    {
+      "question": "Give me a pizza recipe",
+      "expected": "off_topic",
+      "pass": true,
+      "quotes_match": true,
+      "result": {
+        "answer": "I’m here to share insights on B. R. Ambedkar, his life, ideas, and legacy. Please feel free to ask me about him.",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [],
+        "elapsed_ms": 288,
+        "timings": {
+          "routing_ms": 288
+        },
+        "grounding": {
+          "status": "off_topic",
+          "checks": [],
+          "notice": null
+        }
+      }
+    }
+  ],
+  "translation": {
+    "first_seconds": 0.043,
+    "cached_seconds": 0.031,
+    "page": {
+      "document_id": "writing-volume_13",
+      "page": 93,
+      "page_count": 1278,
+      "page_label": "PDF page 93",
+      "text": "60\nडॉ. बाबासाहेब अम्बेडकर: लेखन और भाषण\n\nइस आरोप के बारे में कि मसौदा संविधान ने भारत सरकार अधिनियम, 1935 के प्रावधानों का एक बड़ा हिस्सा तैयार किया है, मैं कोई माफी नहीं मांगती। उधार लेने में शर्म की कोई बात नहीं है। इसमें कोई साहित्यिक चोरी शामिल नहीं है। संविधान के मौलिक विचारों में किसी का पेटेंट अधिकार नहीं है। मुझे इस बात का दुख है कि भारत सरकार अधिनियम, 1935 से लिए गए प्रावधान ज्यादातर प्रशासन के विवरण से संबंधित हैं। मैं सहमत हूं कि प्रशासनिक विवरणों का संविधान में कोई स्थान नहीं होना चाहिए। मैं बहुत चाहती हूं कि मसौदा समिति संविधान में उनके शामिल होने से बचने का रास्ता देख सके। लेकिन यह उस आवश्यकता पर कहा जाना है जो उनके शामिल होने को सही ठहराती है। ग्रीस के इतिहासकार ग्रोटे ने कहा है कि:\n\n\"संवैधानिक नैतिकता का प्रसार, न केवल किसी समुदाय के बहुमत के बीच बल्कि पूरे में, सरकार की तत्काल स्वतंत्र और शांतिपूर्ण होने की अनिवार्य शर्त है; क्योंकि कोई भी शक्तिशाली और हठी अल्पसंख्यक एक स्वतंत्र संस्थान के कामकाज को अव्यावहारिक बना सकता है, बिना खुद के लिए प्रभुत्व जीतने के लिए पर्याप्त मजबूत हुए।\"\n\nसंवैधानिक नैतिकता से ग्रोटे का मतलब था \"संविधान के रूपों के लिए एक सर्वोपरि श्रद्धा, इन रूपों के तहत और भीतर काम करने वाले प्राधिकरण के प्रति आज्ञाकारिता को लागू करना, फिर भी खुली भाषण की आदत के साथ संयुक्त, केवल निश्चित कानूनी नियंत्रण के अधीन कार्रवाई, और उन अधिकारियों की अनियंत्रित निंदा उनके सभी सार्वजनिक कार्यों के बारे में संयुक्त रूप से प्रत्येक नागरिक के सीने में एक पूर्ण विश्वास के साथ पार्टी प्रतियोगिता की कड़वाहट के बीच कि संविधान के रूप उसके विरोधियों की नज़रों में उसके अपने से कम पवित्र नहीं होंगे।\" (सुनो, सुनो)।\n\nयद्यपि हर कोई एक लोकतांत्रिक संविधान के शांतिपूर्ण कामकाज के लिए संवैधानिक नैतिकता के प्रसार की आवश्यकता को पहचानता है, लेकिन इससे जुड़ी दो चीजें हैं जिन्हें दुर्भाग्य से, आम तौर पर मान्यता नहीं दी जाती है। एक यह है कि प्रशासन के स्वरूप का संविधान के स्वरूप से गहरा संबंध है। प्रशासन का स्वरूप संविधान के स्वरूप के समान और उसी अर्थ में उपयुक्त होना चाहिए। दूसरा यह है कि प्रशासन के स्वरूप को बदलकर संविधान को, उसके स्वरूप को बदले बिना, रोकना पूरी तरह से संभव है और इसे संविधान की भावना के विपरीत और असंगत बनाना भी संभव है। इससे यह निष्कर्ष निकलता है कि यह केवल तभी संभव है जब लोग संवैधानिक नैतिकता से संतृप्त हों, जैसे कि...",
+      "turns": [],
+      "original_language": "en",
+      "language": "hi",
+      "translation_status": "machine translation",
+      "notice": "Machine translation. Names, legal wording and meaning should be checked against the original."
+    }
+  },
+  "story_sources": [
+    {
+      "event": "early-life",
+      "page_status": 200
+    },
+    {
+      "event": "mahad",
+      "page_status": 200
+    },
+    {
+      "event": "mahad",
+      "page_status": 200
+    },
+    {
+      "event": "mahad",
+      "page_status": 200
+    },
+    {
+      "event": "poona-pact",
+      "page_status": 200
+    },
+    {
+      "event": "annihilation",
+      "page_status": 200
+    },
+    {
+      "event": "constitutional-morality",
+      "page_status": 200
+    },
+    {
+      "event": "constitutional-morality",
+      "page_status": 200
+    },
+    {
+      "event": "social-democracy",
+      "page_status": 200
+    },
+    {
+      "event": "buddhism",
+      "page_status": 200
+    },
+    {
+      "event": "buddhism",
+      "page_status": 200
+    },
+    {
+      "event": "buddhism",
+      "page_status": 200
+    }
+  ],
+  "voice": {
+    "seconds": 5.844,
+    "input": "Synthetic English speech, no physical microphone",
+    "events": [
+      {
+        "type": "state",
+        "state": "transcribing",
+        "request_id": 1
+      },
+      {
+        "type": "transcript",
+        "text": "What is constitutional morality?",
+        "request_id": 1
+      },
+      {
+        "type": "state",
+        "state": "thinking",
+        "request_id": 1
+      },
+      {
+        "type": "answer",
+        "answer": "Constitutional morality means a deep respect for constitutional forms, where citizens obey lawful authority yet freely criticize it, and trust that opponents will honor those same rules. It requires that administration align with constitutional structure, because changing administrative forms can betray the Constitution’s spirit even without altering its text. [1] [2]\n\nThis morality is not natural; it must be cultivated. Ambedkar warned that democracy in India was merely a surface layer on undemocratic soil, so he distrusted leaving administrative details to the Legislature. Therefore, he embedded them in the Constitution to safeguard its spirit. [3] [4]",
+        "language": "en",
+        "provider": "sarvam",
+        "citations": [
+          {
+            "id": 1,
+            "document_id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+            "title": "Constituent Assembly Draft Making Debates · 4-Nov-1948",
+            "page": 42,
+            "quote": "ffusion of constitutional morality, not merely among the majority of any community but throughout the whole, is the indispensable condition of government at once free and peaceable; since even any powerful and obstinate minority may render the working of a free institution impracticable, without being strong enough to conquer ascendency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrain edcen sure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear.) While everybody recognizes the necessity of the diffusion of Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution."
+          },
+          {
+            "id": 2,
+            "document_id": "writing-volume_13",
+            "title": "Writings & Speeches · Volume 13",
+            "page": 93,
+            "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+          },
+          {
+            "id": 3,
+            "document_id": "writing-volume_13",
+            "title": "Writings & Speeches · Volume 13",
+            "page": 94,
+            "quote": "61 CONSTITUENT ASSEMBLY DEBATES one described by Grote, the historian that one can take the risk of omitting from the Constitution details of administration and leaving it for the Legislature to prescribe them. The question is, can we presume such a diffusion of Constitutional morality ? Constitutional morality is not a natural sentiment. It has to be cultivated. We must realize that our people have yet to learn it. Democracy in India is only a top-dressing on an Indian soil, which is essentially undemocratic. In these circumstances it is wiser not to trust the Legislature to prescribe forms of administration. This is the justification for incorporating them in the Constitution. Another criticism against the Draft Constitution is that no part of it represents the ancient polity of India. It is said that the new Constitution should have been drafted on the ancient Hindu model of a State and that instead of incorporating Western theories the new Constitution should have been raised and built upon village Panchayats and District Panchayats. There are others who have taken a more extreme view. They do not want any Central or Provincial Governments. They just want India to contain so many village Governments. The love of the intellectual Indians for the village community is of course infinite if not pathetic (laughter). It"
+          },
+          {
+            "id": 4,
+            "document_id": "writing-volume_17_03",
+            "title": "Writings & Speeches · Volume 17 · Part 3",
+            "page": 509,
+            "quote": "may completely abnegate and abolish the thing we have had so far. Condition No. IV The fourth condition precedent, in my judgement, for the successful working of democracy is the observance of constitutional morality. Many people seem to be very enthusiastic about the Constitution. Well, I am afraid, I am not. I am quite prepared to join that body of people who want to abolish the Constitution, at any rate to redraft it. But what we forget is that we have a Constitution which contains legal provisions, only a skeleton. The flesh of that skeleton is to be found in what we call constitutional morality. However, in England it is called the conventions of the constitution and people must be ready to observe the rules of the game. Let me give you one or two illustrations which come to my mind at this moment. You remember when the 13 American colonies rebelled, their leader was Washington. It is really a very inadequte way of defining his position in the American life of that day merely to say that he was a leader. To the American people Washington was God. If you read his life and history, he was made the first President of the United States after the constitution was drafted. After his term was over, what happened? He refused to stand for the second time."
+          }
+        ],
+        "elapsed_ms": 1586,
+        "timings": {
+          "routing_ms": 0,
+          "retrieval_ms": 64,
+          "generation_ms": 698,
+          "verification_ms": 823
+        },
+        "grounding": {
+          "status": "source_checked",
+          "checks": [
+            "Source IDs validated",
+            "Source-only synthesis",
+            "Batched support review"
+          ],
+          "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+        },
+        "request_id": 1
+      },
+      {
+        "type": "state",
+        "state": "speaking",
+        "request_id": 1
+      },
+      {
+        "type": "audio",
+        "mime": "audio/wav",
+        "request_id": 1,
+        "audio_bytes": 1889708,
+        "valid_wav": true
+      }
+    ]
+  }
+}

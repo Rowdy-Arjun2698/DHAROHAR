@@ -1,0 +1,90 @@
+{
+  "assets": [
+    {
+      "url": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF/resolve/e87f176479d0855a907a41277aca2f8ee7a09523/Qwen3.5-4B-Q4_K_M.gguf",
+      "path": "data/models/Qwen3.5-4B-Q4_K_M.gguf",
+      "bytes": 2740937888,
+      "sha256": "00fe7986ff5f6b463e62455821146049db6f9313603938a70800d1fb69ef11a4"
+    },
+    {
+      "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/config.json",
+      "path": "data/models/whisper-small/config.json",
+      "bytes": 2370,
+      "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828"
+    },
+    {
+      "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/model.bin",
+      "path": "data/models/whisper-small/model.bin",
+      "bytes": 483546902,
+      "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671"
+    },
+    {
+      "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/tokenizer.json",
+      "path": "data/models/whisper-small/tokenizer.json",
+      "bytes": 2203239,
+      "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+    },
+    {
+      "url": "https://huggingface.co/Systran/faster-whisper-small/resolve/536b0662742c02347bc0e980a01041f333bce120/vocabulary.txt",
+      "path": "data/models/whisper-small/vocabulary.txt",
+      "bytes": 459861,
+      "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+    },
+    {
+      "url": "https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli/resolve/8adb042d524ecd5c26d3e3ba0e3fbcf7e2d0864c/config.json",
+      "path": "data/models/nli/config.json",
+      "bytes": 1066,
+      "sha256": "4e4430c95100d613df80fa01276f231931e1b535557cf62fbb3cc50323e50cca"
+    },
+    {
+      "url": "https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli/resolve/8adb042d524ecd5c26d3e3ba0e3fbcf7e2d0864c/tokenizer.json",
+      "path": "data/models/nli/tokenizer.json",
+      "bytes": 16331396,
+      "sha256": "3aca3ce69a0a35aeb144a52c4f1d41c4246b8785f8f398315cc8fb6b24057810"
+    },
+    {
+      "url": "https://huggingface.co/MoritzLaurer/mDeBERTa-v3-base-mnli-xnli/resolve/8adb042d524ecd5c26d3e3ba0e3fbcf7e2d0864c/onnx/model_quantized.onnx",
+      "path": "data/models/nli/model_quantized.onnx",
+      "bytes": 338679133,
+      "sha256": "27c39e884c14b03cf46cfc5485971b6db70ff330220d93dfe729c63fde43af0e"
+    },
+    {
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/resolve/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/onnx/model_qint8_arm64.onnx",
+      "path": "data/models/multilingual-minilm/model.onnx",
+      "bytes": 118412398,
+      "sha256": "783fea82d71a58179b830a4dbd2d58447e640609e98eedf9ffa12622d375a672"
+    },
+    {
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/resolve/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/tokenizer.json",
+      "path": "data/models/multilingual-minilm/tokenizer.json",
+      "bytes": 9081518,
+      "sha256": "2c3387be76557bd40970cec13153b3bbf80407865484b209e655e5e4729076b8"
+    },
+    {
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/resolve/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/config.json",
+      "path": "data/models/multilingual-minilm/config.json",
+      "bytes": 645,
+      "sha256": "6300193cb75e01cf80c96decef7187dfb33094d97cc1490b7ead6ff134476e4e"
+    },
+    {
+      "url": "https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2/resolve/e8f8c211226b894fcb81acc59f3b34ba3efd5f42/sentence_bert_config.json",
+      "path": "data/models/multilingual-minilm/sentence_bert_config.json",
+      "bytes": 53,
+      "sha256": "70f4448f31320443fe3557cacea5abf2dcc4915dda8c80646bec9f3bb0aa5a1f"
+    },
+    {
+      "url": "https://github.com/ggml-org/llama.cpp/releases/download/b11181/llama-b11181-bin-win-cpu-x64.zip",
+      "path": "runtime/llama-b11181-bin-win-cpu-x64.zip",
+      "bytes": 18568478,
+      "sha256": "d0d65ea389d16bf1cf29116589056f97b913102e6845c65664bf04e012e0bada"
+    }
+  ],
+  "llama_archive": "runtime/llama-b11181-bin-win-cpu-x64.zip",
+  "licenses": {
+    "Qwen3.5": "Apache-2.0",
+    "Whisper": "MIT",
+    "MiniLM": "Apache-2.0",
+    "mDeBERTa NLI": "MIT",
+    "llama.cpp": "MIT"
+  }
+}

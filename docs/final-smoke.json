@@ -1,0 +1,124 @@
+{
+  "status": {
+    "documents": 528,
+    "pages": 46472,
+    "indexed_chunks": 114879,
+    "embedded_chunks": 114872,
+    "by_category": {
+      "debates": 505,
+      "writings": 20,
+      "audio": 3
+    },
+    "ingestion": {
+      "id": "import",
+      "state": "complete",
+      "message": "505 debate attempts finished; 0 errors. OCR assessment recorded per document.",
+      "updated_at": "2026-09-25 16:13:46"
+    },
+    "jobs": {
+      "import": {
+        "id": "import",
+        "state": "complete",
+        "message": "505 debate attempts finished; 0 errors. OCR assessment recorded per document.",
+        "updated_at": "2026-09-25 16:13:46"
+      },
+      "audio-import": {
+        "id": "audio-import",
+        "state": "complete",
+        "message": "Imported 3 official archival audio copies for local evaluation; one historical excerpt and two narrated works.",
+        "updated_at": "2026-09-25 17:03:13"
+      },
+      "embeddings": {
+        "id": "embeddings",
+        "state": "running",
+        "message": "Building local multilingual search index",
+        "updated_at": "2026-09-25 21:56:26"
+      },
+      "ocr": {
+        "id": "ocr",
+        "state": "running",
+        "message": "24 pages OCR processed in this run; 0 errors. OCR text needs review.",
+        "updated_at": "2026-09-25 21:56:33"
+      }
+    },
+    "ai": {
+      "ready": true,
+      "model": "Qwen3.5-4B · local CPU",
+      "provider": "local"
+    },
+    "voice": {
+      "stt": true,
+      "tts": true,
+      "sarvam": false,
+      "mode": "local",
+      "notice": "Local Whisper + eSpeak. Naturalness and latency differ from cloud voice systems."
+    },
+    "languages": [
+      {
+        "code": "en",
+        "name": "English"
+      },
+      {
+        "code": "hi",
+        "name": "Hindi"
+      },
+      {
+        "code": "mr",
+        "name": "Marathi"
+      },
+      {
+        "code": "gu",
+        "name": "Gujarati"
+      },
+      {
+        "code": "bn",
+        "name": "Bengali"
+      },
+      {
+        "code": "ta",
+        "name": "Tamil"
+      },
+      {
+        "code": "te",
+        "name": "Telugu"
+      },
+      {
+        "code": "kn",
+        "name": "Kannada"
+      },
+      {
+        "code": "ml",
+        "name": "Malayalam"
+      },
+      {
+        "code": "pa",
+        "name": "Punjabi"
+      }
+    ],
+    "source_notes": [
+      "Local originals remain readable while search indexing and OCR continue.",
+      "Translations and summaries are machine generated and labelled."
+    ]
+  },
+  "catalog_total": 528,
+  "overview": "The contents list indicates the election of new members and the President of India were scheduled for January 24, 1950.",
+  "reader_start_page": 4,
+  "original_page_png": true,
+  "pdf_range": true,
+  "audio-assembly-1946-12-17-excerpt": {
+    "status": 206,
+    "mime": "audio/mpeg",
+    "range": "bytes 0-1000/1328318"
+  },
+  "audio-volume-1-introduction": {
+    "status": 206,
+    "mime": "audio/mpeg",
+    "range": "bytes 0-1000/924569"
+  },
+  "audio-volume-1-part-ii": {
+    "status": 206,
+    "mime": "audio/mpeg",
+    "range": "bytes 0-1000/117480283"
+  },
+  "home_status": 200
+}

@@ -1,0 +1,35 @@
+{
+  "checked_at": "2026-09-25T22:00:34.677980+00:00",
+  "note": "Earlier generation returned HTTP 503 because support review rejected its draft. These are the final cached overviews fetched from the running application, not summaries of every page in each document.",
+  "cached_overviews": [
+    {
+      "id": "debate-f94d268e-a479-4c58-8f91-f988e9409bf5",
+      "title": "Constituent Assembly Draft Making Debates · 24-Jan-1950",
+      "summary": "The contents list indicates the election of new members and the President of India were scheduled for January 24, 1950.",
+      "key_points": [],
+      "summary_kind": "AI overview · sampled pages · source checked",
+      "citations": [
+        {
+          "page": 3
+        }
+      ]
+    },
+    {
+      "id": "writing-volume_01",
+      "title": "Writings & Speeches · Volume 1",
+      "summary": "The contents list indicates a section on castes in India within the first part of the volume.",
+      "key_points": [
+        "The table of contents includes a chapter on the annihilation of caste in the first part."
+      ],
+      "summary_kind": "AI overview · sampled pages · source checked",
+      "citations": [
+        {
+          "page": 14
+        },
+        {
+          "page": 14
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "retrieved_at": "2026-09-25",
+  "purpose": "Local research and evaluation collection. Public redistribution rights not cleared.",
+  "verification": "All three files decode as audio. Metadata checked against the archived official gallery; first 35 seconds checked with local speech recognition. Transcripts are unreviewed; no full listening review.",
+  "items": [
+    {
+      "filename": "official-assembly-1946.mp4",
+      "title": "Constituent Assembly speech — 17 December 1946 (excerpt)",
+      "recording_kind": "Historical speech excerpt",
+      "date": "1946-12-17",
+      "description": "An excerpt from Ambedkar’s intervention during the Constituent Assembly discussion. He distinguishes agreement about the eventual goal from the difficulty of making a beginning and bringing parties and sections together.",
+      "original_url": "http://drambedkarwritings.gov.in/upload/audio_gallery/55b89e142d583Dr%20BRAmbedkar%20speech%20at%20the%20Constituent%20Assembly.mp4",
+      "wayback_timestamp": "20220609050005",
+      "corroborating_url": "https://www.constitutionofindia.net/museum/1946-b-r-ambedkar-on-the-muslim-leagues-absence-from-the-constituent-assembly/",
+      "source_label": "Dr. Ambedkar Foundation, Government of India (Wayback archival copy)",
+      "source_url": "https://drambedkarwritings.gov.in/content/audiogallery.php",
+      "archived_gallery_url": "https://web.archive.org/web/20220609050000id_/http://drambedkarwritings.gov.in/content/audiogallery.php",
+      "language": "en",
+      "rights_status": "Permission required for reproduction; no open licence found",
+      "rights_source": "https://web.archive.org/web/20220609045224id_/http://drambedkarwritings.gov.in/content/page/website-policies.php",
+      "size_bytes": 1814522,
+      "sha256": "af3105174cd646739307ae64621d1949c12ef68a5b1812ef1b17316fb1d02e50",
+      "download_url": "https://web.archive.org/web/20220609050005id_/http://drambedkarwritings.gov.in/upload/audio_gallery/55b89e142d583Dr%20BRAmbedkar%20speech%20at%20the%20Constituent%20Assembly.mp4",
+      "duration_seconds": 82.936327,
+      "id": "audio-assembly-1946-12-17-excerpt",
+      "category": "audio",
+      "format": "mp4",
+      "candidate_path": "work/audio-candidates/official-assembly-1946.mp4",
+      "summary": "An excerpt from Ambedkar’s intervention during the Constituent Assembly discussion. He distinguishes agreement about the eventual goal from the difficulty of making a beginning and bringing parties and sections together.",
+      "summary_kind": "Curated source overview",
+      "authors": "Dr. B. R. Ambedkar",
+      "key_points": [
+        "Historical speech excerpt",
+        "Historical date: 17 December 1946",
+        "Duration: 1m 23s"
+      ]
+    },
+    {
+      "filename": "official-introduction.mp4",
+      "title": "Writings & Speeches, Volume 1 — introduction",
+      "recording_kind": "Modern narrated reading; not Ambedkar’s historical voice",
+      "date": null,
+      "description": "A short spoken introduction listing works in Volume 1, including Castes in India, Annihilation of Caste, and writings on linguistic states, political representation and the economy.",
+      "original_url": "http://drambedkarwritings.gov.in/upload/audio_gallery/5702212f24252001%20%20intro.mp4",
+      "wayback_timestamp": "20220609050011",
+      "source_label": "Dr. Ambedkar Foundation, Government of India (Wayback archival copy)",
+      "source_url": "https://drambedkarwritings.gov.in/content/audiogallery.php",
+      "archived_gallery_url": "https://web.archive.org/web/20220609050000id_/http://drambedkarwritings.gov.in/content/audiogallery.php",
+      "language": "en",
+      "rights_status": "Permission required for reproduction; no open licence found",
+      "rights_source": "https://web.archive.org/web/20220609045224id_/http://drambedkarwritings.gov.in/content/page/website-policies.php",
+      "size_bytes": 424004,
+      "sha256": "e7e6b5b01e5076b064d9c2e799b250737747d161fff56cde34246379237fc20a",
+      "download_url": "https://web.archive.org/web/20220609050011id_/http://drambedkarwritings.gov.in/upload/audio_gallery/5702212f24252001%20%20intro.mp4",
+      "duration_seconds": 57.724807,
+      "id": "audio-volume-1-introduction",
+      "category": "audio",
+      "format": "mp4",
+      "candidate_path": "work/audio-candidates/official-introduction.mp4",
+      "summary": "A short spoken introduction listing works in Volume 1, including Castes in India, Annihilation of Caste, and writings on linguistic states, political representation and the economy.",
+      "summary_kind": "Curated source overview",
+      "authors": "Text: Dr. B. R. Ambedkar; narrator not credited in gallery",
+      "key_points": [
+        "Modern narrated reading; not Ambedkar’s historical voice",
+        "Official Volume 1 audio edition",
+        "Duration: 0m 58s"
+      ]
+    },
+    {
+      "filename": "official-part-II.mp3",
+      "title": "Writings & Speeches, Volume 1 — Part II",
+      "recording_kind": "Modern narrated reading; not Ambedkar’s historical voice",
+      "date": null,
+      "description": "The Foundation’s Volume 1 recording labelled Part II. Its opening begins Chapter 1, Castes in India: Their Mechanism, Genesis and Development, with the paper’s 1916 seminar context. Full recording contents have not been manually reviewed.",
+      "original_url": "http://drambedkarwritings.gov.in/upload/audio_gallery/56e6b9a34a201partII.mp3",
+      "wayback_timestamp": "20220609050017",
+      "source_label": "Dr. Ambedkar Foundation, Government of India (Wayback archival copy)",
+      "source_url": "https://drambedkarwritings.gov.in/content/audiogallery.php",
+      "archived_gallery_url": "https://web.archive.org/web/20220609050000id_/http://drambedkarwritings.gov.in/content/audiogallery.php",
+      "language": "en",
+      "rights_status": "Permission required for reproduction; no open licence found",
+      "rights_source": "https://web.archive.org/web/20220609045224id_/http://drambedkarwritings.gov.in/content/page/website-policies.php",
+      "size_bytes": 117480283,
+      "sha256": "d9d8a4d6467156257eb3d3bf465fd9cb89a7f296091c2d6958fe36f341781b92",
+      "download_url": "https://web.archive.org/web/20220609050017id_/http://drambedkarwritings.gov.in/upload/audio_gallery/56e6b9a34a201partII.mp3",
+      "duration_seconds": 3671.226844,
+      "id": "audio-volume-1-part-ii",
+      "category": "audio",
+      "format": "mp3",
+      "candidate_path": "work/audio-candidates/official-part-II.mp3",
+      "summary": "The Foundation’s Volume 1 recording labelled Part II. Its opening begins Chapter 1, Castes in India: Their Mechanism, Genesis and Development, with the paper’s 1916 seminar context. Full recording contents have not been manually reviewed.",
+      "summary_kind": "Curated source overview",
+      "authors": "Text: Dr. B. R. Ambedkar; narrator not credited in gallery",
+      "key_points": [
+        "Modern narrated reading; not Ambedkar’s historical voice",
+        "Official Volume 1 audio edition",
+        "Duration: 61m 11s"
+      ]
+    }
+  ],
+  "unavailable": [
+    {
+      "title": "Volume 1 — Part I",
+      "original_url": "http://drambedkarwritings.gov.in/upload/audio_gallery/56e6b90c80d0apartI.mp3",
+      "reason": "Archived original responds with HTTP 302 to the official error.php page; no successful capture found."
+    }
+  ]
+}

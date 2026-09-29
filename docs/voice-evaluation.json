@@ -1,0 +1,53 @@
+{
+  "seconds": 41.26600000000326,
+  "input": "Synthetic English WAV; no physical microphone involved.",
+  "events": [
+    {
+      "type": "state",
+      "state": "transcribing"
+    },
+    {
+      "type": "transcript",
+      "text": "What is constitutional morality?"
+    },
+    {
+      "type": "state",
+      "state": "thinking"
+    },
+    {
+      "type": "answer",
+      "language": "en",
+      "citations": [
+        {
+          "id": 1,
+          "document_id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+          "title": "Constituent Assembly Draft Making Debates · 4-Nov-1948",
+          "page": 42,
+          "quote": "ffusion of constitutional morality, not merely among the majority of any community but throughout the whole, is the indispensable condition of government at once free and peaceable; since even any powerful and obstinate minority may render the working of a free institution impracticable, without being strong enough to conquer ascendency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrain edcen sure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear.) While everybody recognizes the necessity of the diffusion of Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution."
+        }
+      ],
+      "provider": "local",
+      "grounding": {
+        "status": "source_checked",
+        "checks": [
+          "Exact supporting passages verified",
+          "Source-only generation",
+          "Independent contradiction screening",
+          "Reasoned source support review"
+        ],
+        "notice": "AI-generated explanation; open the citations to verify. These checks reduce errors but do not guarantee correctness."
+      },
+      "answer": "Constitutional morality is a cultivated reverence for constitutional forms combined with open speech and legal accountability. [1]",
+      "elapsed_ms": 36782
+    },
+    {
+      "type": "state",
+      "state": "speaking"
+    },
+    {
+      "type": "audio",
+      "mime": "audio/wav",
+      "audio_bytes": 398370
+    }
+  ]
+}

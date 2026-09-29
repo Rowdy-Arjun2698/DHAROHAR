@@ -1,0 +1,14 @@
+{
+  "language": "en",
+  "citations": [],
+  "provider": "local",
+  "grounding": {
+    "status": "insufficient",
+    "checks": [
+      "Retrieved source passages only",
+      "Exact supporting-quote validation"
+    ]
+  },
+  "answer": "I could not support an answer from the archive material available to me. Try a more specific question or open a related document.",
+  "elapsed_ms": 26992
+}

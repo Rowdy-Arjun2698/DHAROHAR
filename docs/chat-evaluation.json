@@ -1,0 +1,110 @@
+[
+  {
+    "question": "What did Ambedkar mean by constitutional morality?",
+    "result": {
+      "language": "en",
+      "citations": [
+        {
+          "id": 1,
+          "document_id": "writing-volume_13",
+          "title": "Writings & Speeches · Volume 13",
+          "page": 24,
+          "quote": "and Jawaharlal Nehru and embodied in the Constitution that has made Indian democracy not a fragile “palace on a dung heap” but a solid edifice that has stood the stresses and strains of our myriad and massive problems. Dr. Ambedkar’s contribution to this was of seminal importance. It is interesting to recall that Dr. Ambedkar defined democracy as: “A form or method of government whereby revolutionary changes in the economic and social life of the people are brought about without bloodshed.” While a revolutionary he was also an uncompromising constitutionalist who advocated that changes, however radical should be effected through constitutional methods and within the constitutional framework. He repeatedly emphasized the paramount need for the diffusion of “constitutional morality” in society, which he held “is not a natural sentiment. It has to be cultivated. We must realize that our people have yet to learn it.” In his devotion to the practice of constitutional morality he went to the extent of ruling out even non-violent extra-constitutional methods like “satyagraha” from the politics of post-independent India. He visualized democracy as the “golden mean” the method of the Buddha which in his view was the best and the safest method of action. His vision of India and the future of the oppressed sections and the minorities"
+        },
+        {
+          "id": 2,
+          "document_id": "writing-volume_13",
+          "title": "Writings & Speeches · Volume 13",
+          "page": 93,
+          "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+        }
+      ],
+      "provider": "local",
+      "grounding": {
+        "status": "source_checked",
+        "checks": [
+          "Exact supporting passages verified",
+          "Source-only generation",
+          "Independent contradiction screening",
+          "Reasoned source support review"
+        ],
+        "notice": "AI-generated explanation; open the citations to verify. These checks reduce errors but do not guarantee correctness."
+      },
+      "answer": "Constitutional morality is a cultivated sentiment, not a natural one. [1]\n\nIt requires reverence for constitutional forms combined with open speech and legal accountability. [2]",
+      "elapsed_ms": 28847
+    }
+  },
+  {
+    "question": "Why did Ambedkar argue for the abolition of caste?",
+    "result": {
+      "language": "en",
+      "citations": [
+        {
+          "id": 1,
+          "document_id": "writing-volume_17_03",
+          "title": "Writings & Speeches · Volume 17 · Part 3",
+          "page": 549,
+          "quote": "520 DR. BABASAHEB AMBEDKAR : WRITINGS AND SPEECHES and have no common experience to share and have no bond of sympathy. Given this fact it is not necessary to argue the point. The existence of the Caste System is a standing denial of the existence of those ideals of society and therefore of democracy. Indian Society is so imbeded in the Caste System that every thing is organized on the basis of caste. Enter Indain Society and you can see caste in its glaring form. An Indian cannot eat or marry with an Indian simply because he or she does not belong to his or her caste. An Indian cannot touch an Indian because he or she does not belong to his or her caste. Go and enter politics and you can see caste reflected therein. How does an Indian vote in an election? He votes for a candidate who belongs to his own caste and no other. Even the Indian Congress exploits the Caste System for election purpose as no other political party in India does. Examine the lists of its candidates in relation to the social composition of the constituencies and it will be found that the candidate belongs to the caste which is the largest one in that constituency. The Congress, as a matter of fact, is upholding the Caste System against which it is outworldly raising a outcry against the existence of caste. Go into the field of industry. What will you find ? You"
+        }
+      ],
+      "provider": "local",
+      "grounding": {
+        "status": "source_checked",
+        "checks": [
+          "Exact supporting passages verified",
+          "Source-only generation",
+          "Independent contradiction screening",
+          "Reasoned source support review"
+        ],
+        "notice": "AI-generated explanation; open the citations to verify. These checks reduce errors but do not guarantee correctness."
+      },
+      "answer": "Caste denies democratic ideals by organizing society on exclusionary lines. [1]",
+      "elapsed_ms": 24602
+    }
+  },
+  {
+    "question": "संवैधानिक नैतिकता का क्या अर्थ है?",
+    "result": {
+      "language": "hi",
+      "citations": [
+        {
+          "id": 1,
+          "document_id": "writing-volume_13",
+          "title": "Writings & Speeches · Volume 13",
+          "page": 93,
+          "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+        }
+      ],
+      "provider": "local",
+      "grounding": {
+        "status": "source_checked",
+        "checks": [
+          "Exact supporting passages verified",
+          "Source-only generation",
+          "Independent contradiction screening",
+          "Reasoned source support review"
+        ],
+        "notice": "AI-generated explanation; open the citations to verify. These checks reduce errors but do not guarantee correctness."
+      },
+      "answer": "संवैधानिक नैतिकता संविधान के रूपों के प्रति गहरा सम्मान और खुले बयान का मिश्रण है। [1]",
+      "elapsed_ms": 35351
+    }
+  },
+  {
+    "question": "Did Ambedkar invent the internet in 1922?",
+    "result": {
+      "language": "en",
+      "citations": [],
+      "provider": "local",
+      "grounding": {
+        "status": "insufficient",
+        "checks": [
+          "Retrieved source passages only",
+          "Exact supporting-quote validation"
+        ]
+      },
+      "answer": "I could not support an answer from the archive material available to me. Try a more specific question or open a related document.",
+      "elapsed_ms": 770
+    }
+  }
+]

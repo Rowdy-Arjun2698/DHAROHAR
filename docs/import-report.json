@@ -1,0 +1,4159 @@
+{
+  "completed": 505,
+  "total": 505,
+  "results": [
+    {
+      "id": "writing-volume_01",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_02",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_03",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_04",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_05",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_06",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_07",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_08",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_09",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_10",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_11",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_12",
+      "skipped": true
+    },
+    {
+      "id": "writing-volume_13",
+      "pages": 1278,
+      "chunks": 2824,
+      "turns": 0,
+      "low_text_pages": 34,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_14_01",
+      "pages": 805,
+      "chunks": 1738,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_14_02",
+      "pages": 613,
+      "chunks": 1395,
+      "turns": 0,
+      "low_text_pages": 15,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_15",
+      "pages": 1133,
+      "chunks": 2111,
+      "turns": 0,
+      "low_text_pages": 37,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_16",
+      "pages": 767,
+      "chunks": 6,
+      "turns": 0,
+      "low_text_pages": 760,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "writing-volume_17_01",
+      "pages": 513,
+      "chunks": 896,
+      "turns": 0,
+      "low_text_pages": 24,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_17_02",
+      "pages": 577,
+      "chunks": 1006,
+      "turns": 0,
+      "low_text_pages": 20,
+      "status": "ready"
+    },
+    {
+      "id": "writing-volume_17_03",
+      "pages": 642,
+      "chunks": 1089,
+      "turns": 0,
+      "low_text_pages": 15,
+      "status": "ready"
+    },
+    {
+      "id": "debate-22161323-f2e9-43cb-b5e3-8c8c0f0c67b0",
+      "pages": 11,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 11,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-52d91f9d-6cb7-4a3b-98af-8160a78a4fbe",
+      "pages": 4,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 4,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-031ea725-b19d-44c2-84b6-9cc572a07a35",
+      "pages": 15,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 15,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7570489c-dd7d-4990-a83d-d9e30ea630e8",
+      "pages": 3,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 3,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d33094cb-31d3-4bab-b7c2-7523ba8f9536",
+      "pages": 19,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 19,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-14538079-e4d0-4a54-a74e-056beec2aa84",
+      "pages": 11,
+      "chunks": 37,
+      "turns": 0,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3529be31-b785-4e43-ae00-eb12fea97aff",
+      "pages": 23,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 23,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a1553b9b-8974-41b5-b6cf-6c32dbe08d6b",
+      "pages": 5,
+      "chunks": 8,
+      "turns": 23,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c3b5b922-f1a1-4b77-a2fb-d6c1dc3893b5",
+      "pages": 4,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 4,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-4a1a079e-18aa-4ef2-9a01-98ebb930c42b",
+      "pages": 28,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 28,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f94d268e-a479-4c58-8f91-f988e9409bf5",
+      "pages": 10,
+      "chunks": 25,
+      "turns": 47,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-37b760df-0d01-43fe-b885-e769e3e5c252",
+      "pages": 22,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 22,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-38a6640b-c14f-4cfc-b14f-10f2baf6786c",
+      "pages": 27,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 27,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-3a4c7cf8-6ce6-4ae0-b705-2761a9ed2b04",
+      "pages": 30,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 30,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-48630c5a-9a53-4eee-ac9b-cde3af72fdb2",
+      "pages": 18,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 18,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ed6f37ba-3d6c-4db4-acb6-717e0a7da540",
+      "pages": 6,
+      "chunks": 11,
+      "turns": 12,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-535e3448-b311-4140-9357-860c04b474aa",
+      "pages": 17,
+      "chunks": 54,
+      "turns": 22,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7c115626-ad54-4eae-bf41-b05f4d78469b",
+      "pages": 7,
+      "chunks": 13,
+      "turns": 21,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6c783bb5-64db-4e0d-9b5d-90735ee14e36",
+      "pages": 35,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 35,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-4db6d70b-72b2-406d-8c08-b4c7ebf07003",
+      "pages": 31,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 31,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f6f57e82-913b-45ec-8942-af82a177f596",
+      "pages": 28,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 28,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2dff4894-a06a-470f-873b-7c670a88d61b",
+      "pages": 34,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 34,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-28cb9067-eddb-403a-8d08-3951b269afcf",
+      "pages": 37,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 37,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1f910c3b-6969-42b1-87a6-bd312fb0f021",
+      "pages": 38,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 38,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2a76cbcb-fa7e-40eb-8222-45279ab81699",
+      "pages": 18,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 18,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f7c3a8f7-08d9-42c9-9c1d-a98ce7392514",
+      "pages": 21,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 21,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-0f66d5ca-21be-4b63-a466-2d68cb1c3553",
+      "pages": 14,
+      "chunks": 37,
+      "turns": 22,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dbadb153-6155-4264-9d19-a973be0ba406",
+      "pages": 14,
+      "chunks": 34,
+      "turns": 13,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b45a6eb5-6b75-4b42-8d0f-969183131159",
+      "pages": 44,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 44,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-5e719e16-c297-498a-8638-e0fc3a6f85ed",
+      "pages": 40,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 40,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-90de681f-6f0d-4dd6-8064-58246cbcc412",
+      "pages": 41,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 41,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-5c6f2078-5e08-451a-a94c-3ef8948bf5c2",
+      "pages": 15,
+      "chunks": 46,
+      "turns": 27,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ea6a9c13-407b-4ae3-af93-45cc9305410f",
+      "pages": 16,
+      "chunks": 45,
+      "turns": 70,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5562f486-ef31-436e-b354-fa2eaf362508",
+      "pages": 19,
+      "chunks": 64,
+      "turns": 73,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-955f3f7a-1b01-4379-b4a0-708c1be481b6",
+      "pages": 44,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 44,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-034d8a16-5c91-4b8c-8cb4-a09ac29772f5",
+      "pages": 52,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 52,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a95bfb05-d1ef-4a18-85f9-43b9932cb7d3",
+      "pages": 49,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 49,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-000d0e8a-c5ae-41a6-8a64-1eae382a6019",
+      "pages": 56,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 56,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fc7b8d31-7697-4549-a484-5f029dd92e80",
+      "pages": 47,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 47,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a7f375df-e4f3-48fd-a82a-e11fa6e40c55",
+      "pages": 23,
+      "chunks": 69,
+      "turns": 143,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e251390c-fab5-4cd2-9951-5682133be0a6",
+      "pages": 48,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 48,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-dba21148-4726-4898-bc3b-1fb549f93174",
+      "pages": 49,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 49,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e60514bf-207c-4f4e-b594-dfa08ee15bc4",
+      "pages": 55,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 55,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a97d5aa6-8ea8-4007-b44c-6b047c6426ff",
+      "pages": 31,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 31,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8736d563-8e3f-4552-a9f6-09fbbd2c1576",
+      "pages": 50,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 50,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-cb1edffe-432b-4212-b027-66d10f55fd6c",
+      "pages": 52,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 52,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-95a56cfa-562b-42af-bb0f-134897e2a087",
+      "pages": 41,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 41,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-9eb69a99-b7f7-40e8-80a3-b905ff326459",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-48b59e0a-db9b-4ff5-8031-76ce8df309a2",
+      "pages": 36,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 36,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8c38f8fd-868a-4475-b8ba-db6397d4746b",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b0e70a97-77c6-4d68-9eea-45aa7e788a04",
+      "pages": 22,
+      "chunks": 60,
+      "turns": 73,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-db48d796-ed05-4743-9742-bac2aebbc5a6",
+      "pages": 59,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 59,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fa6c4387-c195-48ba-9686-aa60e63218d3",
+      "pages": 22,
+      "chunks": 60,
+      "turns": 119,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fee9b9be-d576-4c52-8c6c-06c4112bb625",
+      "pages": 23,
+      "chunks": 60,
+      "turns": 189,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b0c5e9c9-1339-4ee9-a93f-64a5917377ed",
+      "pages": 53,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 53,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-3bd2a64c-d61e-4209-a5ef-04bf5b88520b",
+      "pages": 44,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 44,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a588778c-89c4-40e1-9476-31f2ea837082",
+      "pages": 43,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 43,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d71b0309-3655-460e-90f2-b1e10ca4c95c",
+      "pages": 23,
+      "chunks": 78,
+      "turns": 15,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6b0dc001-e752-4259-a4eb-5298abc7fe92",
+      "pages": 23,
+      "chunks": 74,
+      "turns": 21,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1f318838-3ddb-4482-9883-be4dc49ec5d5",
+      "pages": 24,
+      "chunks": 70,
+      "turns": 62,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-962beb1f-98a6-45f0-860e-07f41d56234f",
+      "pages": 18,
+      "chunks": 60,
+      "turns": 6,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7f7d9e8f-761b-432a-b996-6df846fb8887",
+      "pages": 53,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 53,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-16a0ff6c-321a-4866-8e15-ac0064c66238",
+      "pages": 47,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 47,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f6d000ae-691d-435e-b4f1-a35120351e97",
+      "pages": 37,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 37,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e760d8cd-9268-4ceb-a96c-3b8b306e7fe4",
+      "pages": 45,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 45,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d49aeca3-78e7-4339-9211-f51257564159",
+      "pages": 32,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 32,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-9ee01398-4086-449e-8d7c-02678af52894",
+      "pages": 24,
+      "chunks": 83,
+      "turns": 23,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-22f1405a-22d2-44e3-bc48-9777827c1e3c",
+      "pages": 24,
+      "chunks": 75,
+      "turns": 57,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f58c96e4-3491-4903-ab69-bb57e89551fe",
+      "pages": 29,
+      "chunks": 81,
+      "turns": 2,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-cfd4e9b7-30ac-44fa-85be-24ea617015ef",
+      "pages": 55,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 55,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d8852236-dacd-493c-b804-8572fedca84c",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-733f5eeb-2cb7-4865-8300-27413a678ea8",
+      "pages": 33,
+      "chunks": 106,
+      "turns": 185,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-cfce8913-2c31-4708-8a49-09c6d6fd192c",
+      "pages": 28,
+      "chunks": 75,
+      "turns": 111,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b795979a-4741-4133-a5de-3c79213bea20",
+      "pages": 26,
+      "chunks": 83,
+      "turns": 82,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b8ee7fe6-60fd-40bf-9c38-4152d27decfb",
+      "pages": 26,
+      "chunks": 89,
+      "turns": 45,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-49f50471-57ae-43f4-9eb3-cdfd36cbbe0e",
+      "pages": 51,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 51,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fe5c659d-ed5a-4596-b33a-c19f678aa7b4",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2b561eb4-ee3f-44ea-89c1-d10fd7b9311d",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7f6f8586-6c09-4da4-aa8f-cb2a201a42a5",
+      "pages": 67,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 67,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8bd07e20-c0e2-4250-b60f-2ef9bce4e04a",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b3fdf12a-b32e-4d92-9764-b0c0a8ed24a7",
+      "pages": 38,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 38,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-82e6e1b0-e011-465b-9611-244d11876bd0",
+      "pages": 26,
+      "chunks": 91,
+      "turns": 25,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ac649ef9-e021-464e-8799-612ec24293f8",
+      "pages": 51,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 51,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-92d8968b-4a04-470a-9911-d95cd18326a0",
+      "pages": 29,
+      "chunks": 94,
+      "turns": 127,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5fffb323-399c-4d7e-9583-2712f537393a",
+      "pages": 30,
+      "chunks": 103,
+      "turns": 117,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-67c8f973-6654-439e-a91e-01b2a9d95171",
+      "pages": 24,
+      "chunks": 68,
+      "turns": 152,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ca8335f8-280c-4181-be19-e16611232e55",
+      "pages": 27,
+      "chunks": 90,
+      "turns": 62,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7867e48a-6714-468c-b2e9-04c10f8d493e",
+      "pages": 28,
+      "chunks": 86,
+      "turns": 117,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a1ed6e66-8e74-4489-8650-0556641ec198",
+      "pages": 29,
+      "chunks": 85,
+      "turns": 154,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fda3e8a5-18a6-49c7-8298-c3839b21870b",
+      "pages": 31,
+      "chunks": 103,
+      "turns": 151,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1d372775-9a60-49a7-948d-430352a7ae76",
+      "pages": 55,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 55,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-89fff100-9821-4f1b-92ab-2651d01a38d3",
+      "pages": 31,
+      "chunks": 101,
+      "turns": 147,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-31f9a8f7-c21d-4efa-a17f-ccdb1d8a4ed2",
+      "pages": 28,
+      "chunks": 91,
+      "turns": 70,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c8930c7a-ec65-46a6-bfcf-8062a43947a6",
+      "pages": 31,
+      "chunks": 103,
+      "turns": 153,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-aa7ff7ee-9ce4-426a-a119-11502f10ddf8",
+      "pages": 31,
+      "chunks": 107,
+      "turns": 115,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3eb2dfd4-e10b-4115-9c79-dced2f668cdb",
+      "pages": 37,
+      "chunks": 124,
+      "turns": 137,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bad782e9-e9b2-437f-b730-f498c3190c7e",
+      "pages": 31,
+      "chunks": 107,
+      "turns": 100,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-54fbc7a8-09a2-4e57-b416-08a70dd303e4",
+      "pages": 31,
+      "chunks": 107,
+      "turns": 139,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8d476513-6b46-4e1d-a97a-5524821e671e",
+      "pages": 54,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 54,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-52476fb4-4a15-4691-84e5-98fe36541f4a",
+      "pages": 32,
+      "chunks": 109,
+      "turns": 121,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ac376541-2e27-4152-bc1b-fbc0642152d6",
+      "pages": 31,
+      "chunks": 102,
+      "turns": 85,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-68b7cd7d-9641-41f4-ae1f-b1a30fe8f0fb",
+      "pages": 35,
+      "chunks": 128,
+      "turns": 50,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-06651992-778d-4c25-9e1b-a25febf19d86",
+      "pages": 33,
+      "chunks": 115,
+      "turns": 122,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-da2c7e61-70af-4b2e-8b04-7eec66e08f06",
+      "pages": 33,
+      "chunks": 94,
+      "turns": 142,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-48f916f4-e2d2-4588-9432-2ec34a70239c",
+      "pages": 33,
+      "chunks": 103,
+      "turns": 204,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8bee156a-cf75-4598-be3c-15cd111f92f3",
+      "pages": 35,
+      "chunks": 125,
+      "turns": 69,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-895d83c1-8289-45de-a994-9cb4eb1e5424",
+      "pages": 32,
+      "chunks": 102,
+      "turns": 115,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-23462b96-d33b-4f1b-a297-6ecae833fbac",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ce2e79f3-1ad3-4fd6-a0d1-456fe68b4a86",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-26ef0b23-d4be-401b-920b-1d292985f543",
+      "pages": 33,
+      "chunks": 98,
+      "turns": 115,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0d89a857-92f3-4dcc-ab07-cee8d9baa2c5",
+      "pages": 33,
+      "chunks": 98,
+      "turns": 142,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e4a1dd17-fa4a-47f6-93db-cc629ef2f00f",
+      "pages": 39,
+      "chunks": 123,
+      "turns": 247,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-27b6cce0-b379-4d60-a70a-ac16c63235f4",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e19050ba-43d0-44ec-988d-744bb66c60a5",
+      "pages": 33,
+      "chunks": 116,
+      "turns": 183,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-cecf6e8f-a684-42a8-b3ad-7104daae9cbf",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-36418c7b-2b73-459e-9427-bb49f2b08a42",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-0c8c833c-9efc-468d-9212-2ea108f43909",
+      "pages": 35,
+      "chunks": 100,
+      "turns": 130,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-389aa36d-f72f-4396-8930-a23368b40baf",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ff2ab64a-2c34-470a-9f06-625477545bdb",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1a14c8a0-8173-4ca1-abfe-69139e3382cc",
+      "pages": 61,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 61,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-be3621c0-fb68-4f98-b731-51b9d9e66415",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fb467c56-0cbd-45fb-a80d-8103ae94612b",
+      "pages": 29,
+      "chunks": 102,
+      "turns": 60,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-de8641b2-bf4e-4660-bbc8-1c39823cb260",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-911378d5-4877-4692-827b-1b139125b054",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-bc24158b-6d08-4672-82df-3a1b2b6959cb",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-014ced95-e9c2-4d02-96d9-01f6d6f42696",
+      "pages": 32,
+      "chunks": 110,
+      "turns": 151,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8de7b3ac-87a5-466d-9323-ae5cd1453f5c",
+      "pages": 64,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 64,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a40a9975-95f3-43a7-91ee-b1e1b02f6630",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d91010a9-3589-498a-a020-0f8a2b637d2a",
+      "pages": 34,
+      "chunks": 119,
+      "turns": 113,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7776a39b-c947-4d46-8ad9-22c60f49d44b",
+      "pages": 60,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 60,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-08f5106a-6eef-478d-9837-cd6178e69013",
+      "pages": 34,
+      "chunks": 116,
+      "turns": 124,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-cdd741a2-8edb-415b-9423-f15352901ca7",
+      "pages": 36,
+      "chunks": 108,
+      "turns": 139,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f52de555-d518-4ce5-acbf-a393fd311584",
+      "pages": 33,
+      "chunks": 118,
+      "turns": 143,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d8feef91-1fd4-4c9e-8ce8-e79684eff851",
+      "pages": 47,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 47,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-cd8e5225-d5b5-4a4c-ba8e-504e7f908b59",
+      "pages": 36,
+      "chunks": 116,
+      "turns": 118,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e2ab0a19-240d-4733-83e8-a3abfeb1c49e",
+      "pages": 36,
+      "chunks": 126,
+      "turns": 129,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-df5536ea-a244-4fbe-bd1c-ae7a1fcbff22",
+      "pages": 36,
+      "chunks": 124,
+      "turns": 173,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0df6b38c-c8fb-49d4-b852-b5115221729f",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-9100dac2-5f4d-4d51-b6f9-f15aa1d09b67",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-56a62c91-ceb3-4e61-9e14-bbcaeb6490a9",
+      "pages": 37,
+      "chunks": 104,
+      "turns": 32,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f6a173cb-7bfc-4236-9050-bafd52a44af0",
+      "pages": 37,
+      "chunks": 130,
+      "turns": 179,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7e5e1a8c-0f1d-41a4-a38b-8b33c97819c6",
+      "pages": 68,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 68,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a5a0ed6b-1b0f-443c-b1e4-1668638b348e",
+      "pages": 96,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 96,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-870c41cc-0dec-4cc2-b2d0-4f18fdf0f455",
+      "pages": 66,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 66,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a683bb53-b818-4433-9c5b-e4cc302b2957",
+      "pages": 38,
+      "chunks": 123,
+      "turns": 75,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5d260cfa-d37a-4112-a508-318c5b4f0878",
+      "pages": 38,
+      "chunks": 133,
+      "turns": 153,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-157aa231-9406-4082-a5e2-9bfbc80fcab6",
+      "pages": 39,
+      "chunks": 134,
+      "turns": 170,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-afc314ab-aba3-423c-bab3-6f661ac66a84",
+      "pages": 39,
+      "chunks": 129,
+      "turns": 245,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f51841b1-1cf9-413d-ac33-3cd93a448e34",
+      "pages": 38,
+      "chunks": 116,
+      "turns": 179,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bf8482dc-ae41-44d2-8e3c-0080e90ff852",
+      "pages": 39,
+      "chunks": 134,
+      "turns": 159,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ac99b282-84a9-4126-822e-ce27b2bb9896",
+      "pages": 66,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 66,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-6a20a7f7-8b8c-4181-b45a-83614bf705e0",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2203e6b0-b849-4295-9af9-4f0a7dfcbcb3",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-5cfc1781-f0c7-419e-9faf-eb01e0868921",
+      "pages": 32,
+      "chunks": 110,
+      "turns": 87,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2fcd3ca2-f184-4fd7-81cb-786ff651a521",
+      "pages": 38,
+      "chunks": 119,
+      "turns": 167,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fe88d92b-2d2b-42c5-b1df-e5aa3a903708",
+      "pages": 60,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 60,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f04ac216-2b24-4b52-8bd3-a2fbb82f08bb",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d854a138-bfa9-42b3-b10a-a41fd7a829a1",
+      "pages": 40,
+      "chunks": 140,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b77dd019-2da2-451a-93c9-62f2612480c2",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-48a14c20-acc7-4858-a95a-db2a01e1c0d5",
+      "pages": 40,
+      "chunks": 137,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b5b4323b-b76a-4ff3-b46c-fc87b32dc061",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-6e014aaf-0204-417b-bcea-7c2f5bda9d63",
+      "pages": 40,
+      "chunks": 138,
+      "turns": 130,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-444c5f83-abc0-4a8c-8053-940dd3e9feeb",
+      "pages": 40,
+      "chunks": 138,
+      "turns": 241,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4f563466-f499-4fa6-b214-6d7a4a631598",
+      "pages": 38,
+      "chunks": 133,
+      "turns": 160,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5dc565e6-cfa0-43de-9f48-e2347fe26468",
+      "pages": 47,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 47,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-c96cf3ec-8b08-4585-92b8-e21d0fec141f",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1ae50b3f-799c-4624-8afa-6d112cfe1821",
+      "pages": 65,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 65,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ed5a9a29-51b3-4864-bebe-82550ec2795b",
+      "pages": 66,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 66,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-38ef01d0-bbfe-4bee-8a10-af207284fba0",
+      "pages": 65,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 65,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1d6601df-934f-40e9-80dd-41374b0a1d1b",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a43b6821-5364-405a-a023-42953c9b2ae1",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-dfc56d1f-9329-4533-9ab1-918ba61438dc",
+      "pages": 47,
+      "chunks": 151,
+      "turns": 291,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8d10f0fa-e710-4a9d-a395-59f6ac918bc1",
+      "pages": 42,
+      "chunks": 128,
+      "turns": 180,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-50071573-2c41-4402-ae38-19daf4438dae",
+      "pages": 35,
+      "chunks": 111,
+      "turns": 181,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a197971b-7645-4a1b-8fc2-502d545877a3",
+      "pages": 39,
+      "chunks": 134,
+      "turns": 101,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a3d48210-a489-458a-b758-db70080abaad",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-095027c7-62c3-4643-9598-aa0195219d62",
+      "pages": 43,
+      "chunks": 134,
+      "turns": 118,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-74b4629f-d981-4333-a583-3d15405be95e",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-cb6945cc-126d-4428-8754-5a734fc64986",
+      "pages": 40,
+      "chunks": 143,
+      "turns": 83,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-943afc88-c209-415b-9a7e-cfb4af694ac8",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-c6bbe498-aec6-40ea-9fc0-9692ca6473d3",
+      "pages": 66,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 66,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2efa9320-8269-4bf6-b4e5-787117bfdcc7",
+      "pages": 53,
+      "chunks": 150,
+      "turns": 487,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2796fa82-344c-489a-86b8-0b67989265d5",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7c9396b6-a2be-47a6-acb9-96b4e204b498",
+      "pages": 67,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 67,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d91f4d63-7843-45ab-ab47-2b3cf27eb78f",
+      "pages": 43,
+      "chunks": 150,
+      "turns": 207,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-95637666-6efe-4b1e-9d6d-cbcefcc19d74",
+      "pages": 73,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 73,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-bf675a83-8f9a-4d8a-bfee-595883264d43",
+      "pages": 41,
+      "chunks": 137,
+      "turns": 132,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-311fbcd8-24d0-43ab-97fe-c0e7d5467235",
+      "pages": 41,
+      "chunks": 146,
+      "turns": 209,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f4bdb7a3-7774-4456-bac8-52bb1d60f95d",
+      "pages": 42,
+      "chunks": 143,
+      "turns": 148,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-72e56909-fab3-4e5a-b121-9cd14864b7c1",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-975ff33b-8cb9-48e5-8786-33d91e657a08",
+      "pages": 34,
+      "chunks": 121,
+      "turns": 52,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b6d0d391-199d-4702-a6cd-b6e77a05a2ec",
+      "pages": 73,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 73,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e5b48aff-b281-4c32-98ed-154b13af52fe",
+      "pages": 47,
+      "chunks": 134,
+      "turns": 130,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-edcf5e8c-0692-4ec8-bc29-d522df2ad364",
+      "pages": 47,
+      "chunks": 141,
+      "turns": 167,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dcbd98e2-a271-40bf-a23f-8ce1011129ca",
+      "pages": 73,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 73,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-227ed584-6069-4009-82a2-bbe8c71d8dc1",
+      "pages": 43,
+      "chunks": 156,
+      "turns": 66,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1c12fabe-dcdc-40c8-b791-d8a50f904d23",
+      "pages": 51,
+      "chunks": 188,
+      "turns": 77,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b8ccd9b0-dac6-4488-a54b-38284c0394f3",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-99e13a12-6e6b-4ffe-8188-119024b50a25",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e62a75b4-84c3-43fd-ad6f-f1883b9c73cd",
+      "pages": 42,
+      "chunks": 123,
+      "turns": 314,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-307c368e-5133-4190-98d1-498e48241a08",
+      "pages": 57,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 57,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-983295a6-bb16-4df8-a7db-07686db00562",
+      "pages": 44,
+      "chunks": 149,
+      "turns": 162,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c21fb53b-010f-44b1-9c49-1cadcd2ff53d",
+      "pages": 44,
+      "chunks": 151,
+      "turns": 113,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-154751e5-8f6e-49c3-8cde-436580db63f0",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-738af3fe-0539-4247-9ebb-64ab6a8ad0a9",
+      "pages": 44,
+      "chunks": 150,
+      "turns": 150,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d06a501e-b2c6-494b-bd4e-dae6031d1f93",
+      "pages": 42,
+      "chunks": 146,
+      "turns": 124,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3fd59216-e874-4a27-b7c5-307c46b769f5",
+      "pages": 47,
+      "chunks": 159,
+      "turns": 160,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-58789f0d-b851-4d08-935f-aaabeb06abc6",
+      "pages": 45,
+      "chunks": 155,
+      "turns": 175,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-384b6252-03f6-4a2f-9b14-4ff84de23506",
+      "pages": 45,
+      "chunks": 157,
+      "turns": 140,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ccc62af5-e371-4929-8af1-6c7aaaeb1853",
+      "pages": 46,
+      "chunks": 154,
+      "turns": 170,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9ea1e33a-9701-4558-8202-0646b536d282",
+      "pages": 46,
+      "chunks": 158,
+      "turns": 132,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bf4ff891-7249-4fdd-b2cd-a17547ee1d2e",
+      "pages": 91,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 91,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-0532a5ce-c4da-4b95-aad2-c423bf02725d",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a893d88a-b6dd-4e12-96f0-0fd86134d51d",
+      "pages": 46,
+      "chunks": 160,
+      "turns": 73,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7f46c191-e6c3-417b-83ec-d06b67a730c2",
+      "pages": 76,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 76,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8c6f220b-8a59-499e-bb28-4c7bb77588b0",
+      "pages": 74,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 74,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ac0fd1be-b1e1-4104-ae66-e57968537ca7",
+      "pages": 67,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 67,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-45672472-0ea7-4f47-9f8f-5a2b19071703",
+      "pages": 47,
+      "chunks": 161,
+      "turns": 178,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-90386d5f-4ac1-4289-aef1-5146419ecf74",
+      "pages": 58,
+      "chunks": 198,
+      "turns": 171,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9e29bffb-243b-4cb7-8e14-d584e6cfee7b",
+      "pages": 41,
+      "chunks": 140,
+      "turns": 177,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4077dbd9-5e43-4cf9-b861-1500e547555c",
+      "pages": 47,
+      "chunks": 152,
+      "turns": 196,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2062eacd-2685-444c-8b2b-9f1eebc1b76f",
+      "pages": 55,
+      "chunks": 196,
+      "turns": 155,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0f2216c2-1708-4754-ba16-c62101b20cad",
+      "pages": 57,
+      "chunks": 188,
+      "turns": 261,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f5adc125-d012-492c-b832-ff46bef0f651",
+      "pages": 60,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 60,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f2aa97b3-a316-4973-8007-89ed7566e5d2",
+      "pages": 67,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 67,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-38f514ad-e4e3-4954-bd30-4b94edc10d5a",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-28d9365c-070f-4cd7-8a0f-b9a3fa9a0332",
+      "pages": 57,
+      "chunks": 186,
+      "turns": 384,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d6204d30-fce0-4175-924f-5d7f8030758c",
+      "pages": 62,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 62,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7d64c760-4c8b-402b-8253-2c01c788c30e",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-0b0cd632-a7e3-48ba-8273-3faeaa738442",
+      "pages": 43,
+      "chunks": 142,
+      "turns": 211,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-86899a7b-af7d-43bc-9f07-6bc5ded28cdc",
+      "pages": 53,
+      "chunks": 196,
+      "turns": 37,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9d3d73e2-c1a0-4910-8ba8-87ae4d3b4b28",
+      "pages": 60,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 60,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-720e892a-7591-413e-a98f-e6d513df5e0e",
+      "pages": 53,
+      "chunks": 199,
+      "turns": 48,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e79e599a-5389-49c6-8ec5-4fb6b8f79cc2",
+      "pages": 45,
+      "chunks": 154,
+      "turns": 151,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dbd182fb-c57f-45ef-afac-4cfb10832858",
+      "pages": 48,
+      "chunks": 178,
+      "turns": 84,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ab6942d1-71cc-40bb-b644-e6418dd1dd4b",
+      "pages": 108,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 108,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-5c7da965-20ef-4196-a796-b14d8907849e",
+      "pages": 43,
+      "chunks": 145,
+      "turns": 150,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3cb5aa30-9f38-494e-8279-9360f27ee99f",
+      "pages": 44,
+      "chunks": 149,
+      "turns": 202,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ab6c263e-4448-4d9c-a348-cb408e2443cd",
+      "pages": 69,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 69,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7948497d-33c4-4d54-9b9c-774e86860065",
+      "pages": 50,
+      "chunks": 155,
+      "turns": 308,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-14538793-35af-4f67-b9ac-f6651dbb740f",
+      "pages": 47,
+      "chunks": 164,
+      "turns": 156,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a54c9342-cfa0-4a46-a662-dbd4dfc23857",
+      "pages": 59,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 59,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-56a58d62-7847-49a3-9ec6-d318cc07033b",
+      "pages": 44,
+      "chunks": 150,
+      "turns": 194,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a8c711ae-cc43-4b4b-adca-79052c81ad02",
+      "pages": 44,
+      "chunks": 155,
+      "turns": 170,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f8b98435-a708-4ee1-a0be-1fb1c85a0db8",
+      "pages": 55,
+      "chunks": 200,
+      "turns": 54,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e99d582d-ff7b-4f82-ad71-15fe3f9f5858",
+      "pages": 66,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 66,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-85efc03d-8afd-4425-a125-3300bf0e3940",
+      "pages": 43,
+      "chunks": 156,
+      "turns": 57,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-22b09012-e80e-4207-8e40-af820be120fc",
+      "pages": 49,
+      "chunks": 167,
+      "turns": 232,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7001ad00-7072-4f1f-9592-2c47de85c03d",
+      "pages": 81,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 81,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8e4f88c4-8950-4f80-8519-3b145b8de19c",
+      "pages": 45,
+      "chunks": 149,
+      "turns": 191,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9e2e8556-cbbb-4bde-b92b-15bad40fb58e",
+      "pages": 68,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 68,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-9a7a5c17-7402-4c3c-ba4e-0c4be10c2e04",
+      "pages": 63,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 63,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8bbdfa83-25a9-4f98-b2d3-08dbca830ffd",
+      "pages": 45,
+      "chunks": 151,
+      "turns": 207,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ae548e8e-aed6-41a3-99aa-18d9193e3ffd",
+      "pages": 64,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 64,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-6130f70a-b1eb-4af8-9963-9ffe008a3015",
+      "pages": 45,
+      "chunks": 160,
+      "turns": 128,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-400589d1-c03c-4743-97e6-297dc57ebd5d",
+      "pages": 51,
+      "chunks": 159,
+      "turns": 273,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-13edf2ea-7f67-4a54-a02f-3538055d29a1",
+      "pages": 55,
+      "chunks": 198,
+      "turns": 86,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-64b26023-b3e6-4ec3-a92d-9b8bb3cb9aec",
+      "pages": 58,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 58,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-64bfaa3a-9c19-47ad-8cbf-abdd93062abd",
+      "pages": 52,
+      "chunks": 196,
+      "turns": 75,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-169cd886-82ae-44f1-a20d-80cf8d37e5e3",
+      "pages": 51,
+      "chunks": 153,
+      "turns": 282,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5a071a7c-3a78-4720-8cd7-fff50452b72a",
+      "pages": 48,
+      "chunks": 163,
+      "turns": 130,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-27134581-e0b5-443a-8b21-b9f33d565ba5",
+      "pages": 44,
+      "chunks": 151,
+      "turns": 166,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0aebad3f-85dc-4146-8130-ed83fbed5bf8",
+      "pages": 52,
+      "chunks": 170,
+      "turns": 212,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-64c8ab9b-519b-4a91-a522-f47ab25fa570",
+      "pages": 52,
+      "chunks": 157,
+      "turns": 416,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-314e3e93-08e4-4cb5-9a18-1ade9c9de2ab",
+      "pages": 80,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 80,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e1985402-2b55-442c-bb2e-2d5ff079262c",
+      "pages": 46,
+      "chunks": 142,
+      "turns": 265,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-324c9b41-f005-4004-b184-a3c4388f6f93",
+      "pages": 48,
+      "chunks": 152,
+      "turns": 209,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9e74f6ec-8ead-4954-afb2-be815de48e8a",
+      "pages": 51,
+      "chunks": 152,
+      "turns": 325,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4e07faa9-0fe0-4343-99fa-e22446406f6b",
+      "pages": 72,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 72,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7e131881-2669-4635-b2aa-7cf5179bd549",
+      "pages": 78,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 78,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-07eaf764-904c-4931-87cc-06b5ea1da73d",
+      "pages": 88,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 88,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fc874c8a-6295-4a5c-82ce-b996ffd00f8c",
+      "pages": 47,
+      "chunks": 158,
+      "turns": 191,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-de34550c-a12b-41cb-a626-ca1450cb15ff",
+      "pages": 53,
+      "chunks": 175,
+      "turns": 306,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a63d998f-fa85-4478-8545-d97f995c83f0",
+      "pages": 77,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 77,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-7e3d6f91-186b-4d16-9cf8-63fa044af6eb",
+      "pages": 59,
+      "chunks": 201,
+      "turns": 192,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5cc8a980-acc0-44da-a348-d252a117f5e1",
+      "pages": 55,
+      "chunks": 171,
+      "turns": 152,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3811bea5-3be8-4b2f-9a16-00fa56d39fb2",
+      "pages": 47,
+      "chunks": 152,
+      "turns": 233,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f38b76a5-4a38-4862-9625-38cf6ec933fe",
+      "pages": 65,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 65,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a8c43e0d-a731-4a6a-ac5a-ca75a65e6c46",
+      "pages": 60,
+      "chunks": 167,
+      "turns": 293,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0ca9cde4-0f2c-464c-9c58-4e4cfe54e167",
+      "pages": 88,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 88,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-af90a7c9-8aea-4581-9e76-c41189c26f50",
+      "pages": 63,
+      "chunks": 205,
+      "turns": 373,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-67931d88-ee2f-442b-8135-7d63469db019",
+      "pages": 46,
+      "chunks": 155,
+      "turns": 180,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b39227f9-eef9-4cf4-b1f4-f5c937beed77",
+      "pages": 50,
+      "chunks": 158,
+      "turns": 318,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4e681f36-b30d-4139-bff1-3f8e22e0ab94",
+      "pages": 46,
+      "chunks": 168,
+      "turns": 58,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ee9a6b39-0a75-40a7-8b2f-25e912645a7c",
+      "pages": 52,
+      "chunks": 178,
+      "turns": 115,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6a6d0dcd-37a6-4bbb-90f5-bb0f1053ddfc",
+      "pages": 75,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 75,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-50de9da9-3f02-4216-93d5-953b998a9214",
+      "pages": 73,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 73,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1a787fa0-2738-4c97-b9a7-86c4e0a339f2",
+      "pages": 84,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 84,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-565755c1-4b52-46ba-9ee5-5c82ffbd279b",
+      "pages": 74,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 74,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-20677e51-0937-4ce9-b014-fba1d5016bb8",
+      "pages": 54,
+      "chunks": 202,
+      "turns": 94,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-aad33de6-ec92-47a9-a8b5-16bab1d210fc",
+      "pages": 62,
+      "chunks": 221,
+      "turns": 189,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c46becee-dc9c-46b9-b53a-0e279cb0ae5e",
+      "pages": 84,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 84,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-4772447c-091f-4875-ba27-1cb2c557eb38",
+      "pages": 72,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 72,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e33748c0-a905-4cfd-a5bf-875271f60f1d",
+      "pages": 62,
+      "chunks": 211,
+      "turns": 312,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-578a1785-ad4f-4af5-8f6a-e9399da9b061",
+      "pages": 51,
+      "chunks": 159,
+      "turns": 279,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7c3f992a-ed64-4f10-88bd-1377f5c8893d",
+      "pages": 85,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 85,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-5dc355c1-60e8-4d98-bfd6-9d256c9346ba",
+      "pages": 51,
+      "chunks": 171,
+      "turns": 228,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-34ecd929-b2fa-414b-972c-ef03f1133e6e",
+      "pages": 74,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 74,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-2da4582c-83ab-4404-889c-774f940d9635",
+      "pages": 80,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 80,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b76fd4c1-a32d-4538-976d-4a20645a5da5",
+      "pages": 57,
+      "chunks": 165,
+      "turns": 353,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d82c57c9-70d8-481a-bd04-be9e28981051",
+      "pages": 90,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 90,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-e792990a-9e77-466f-9488-3fb2fdf41a5c",
+      "pages": 51,
+      "chunks": 175,
+      "turns": 121,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-930c81d8-ab84-4eb7-aa57-01874c9c07da",
+      "pages": 81,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 81,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-9a7a23af-38f7-435a-ae1f-339a6045192d",
+      "pages": 82,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 82,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-71dff992-d39c-4b10-a4fa-86b83a1417d3",
+      "pages": 80,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 80,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-1d2c0732-d8de-4978-8856-d0066665ba67",
+      "pages": 77,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 77,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-4bd1ba98-739e-456c-99ff-c17198d8de43",
+      "pages": 77,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 77,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-049eb5b3-4b04-47af-ae10-54098045c099",
+      "pages": 96,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 96,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b6871c0f-1d15-4a73-aba1-a3834d982a9b",
+      "pages": 81,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 81,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-f0b0e4df-9a84-4e1e-a4cb-322f7216cfc0",
+      "pages": 93,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 93,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d70d7b3f-b365-4262-9446-0cdd8a4fbe03",
+      "pages": 82,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 82,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-a66b4058-52de-4b88-bd35-a78c3affd734",
+      "pages": 78,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 78,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-6319666b-2780-471f-b146-47f4f14d3074",
+      "pages": 91,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 91,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-cd16db6b-a623-4e09-aeaa-a9a7d0405bee",
+      "pages": 76,
+      "chunks": 231,
+      "turns": 464,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-15960128-2cf4-45c2-8b95-a7b6ace505c8",
+      "pages": 90,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 90,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-686f5205-6b78-45e3-a6ff-1cef8814b03b",
+      "pages": 92,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 92,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b0f56822-c29e-47b0-88da-dea1761dd66e",
+      "pages": 72,
+      "chunks": 232,
+      "turns": 353,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-25374f2a-9e27-40f2-b9cd-f32b22dbc5c2",
+      "pages": 33,
+      "chunks": 102,
+      "turns": 133,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8502a1b3-603a-4c8c-b468-6935852f344b",
+      "pages": 97,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 97,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-26eb2921-c909-4d01-be4a-0449fe0dbfc2",
+      "pages": 117,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 117,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-8b21c02f-ce3c-4c5b-8f98-884e9247aa17",
+      "pages": 107,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 107,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-43bfe3ee-271e-41c8-a1b3-534622978e0c",
+      "pages": 88,
+      "chunks": 290,
+      "turns": 498,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6e1921d2-f902-483f-bf39-c00712668b6f",
+      "pages": 40,
+      "chunks": 103,
+      "turns": 195,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9f55250e-fbcf-444a-b8fd-a22a45cb0a5e",
+      "pages": 79,
+      "chunks": 285,
+      "turns": 213,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ddcb2cb1-ccd9-47cc-b862-086ba5219a1d",
+      "pages": 83,
+      "chunks": 305,
+      "turns": 168,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-260b4275-fa02-4678-ad5c-5d667a721255",
+      "pages": 49,
+      "chunks": 148,
+      "turns": 195,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b96eabc6-ca84-4292-a08c-8d186cd7643a",
+      "pages": 115,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 115,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-c9e17a78-fab9-4a69-92fb-65b82f576550",
+      "pages": 113,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 113,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-32de269c-2905-4ba0-abf3-b75bf1cde172",
+      "pages": 117,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 117,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-bfed4278-52af-4284-9930-a63652eaef8e",
+      "pages": 141,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 141,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+      "pages": 211,
+      "chunks": 658,
+      "turns": 182,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f01c2504-6f3b-4f0f-a9de-0f66d0c9181d",
+      "pages": 87,
+      "chunks": 299,
+      "turns": 283,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f2371d7f-b665-4168-be04-de07256b1c3e",
+      "pages": 135,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 135,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-3c3e8d3c-ea46-4616-8ec5-60784b6d05ad",
+      "pages": 100,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 100,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-b9f171d5-aad0-4edb-b310-005a7f999394",
+      "pages": 66,
+      "chunks": 168,
+      "turns": 105,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fc89056d-5ddb-40e8-997a-60bf81e9c4a8",
+      "pages": 17,
+      "chunks": 54,
+      "turns": 2,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4cf40983-4df1-4fe4-8e86-cd1696536a35",
+      "pages": 29,
+      "chunks": 100,
+      "turns": 38,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-57210f5e-3113-4ccc-8fb6-c42c282ec6db",
+      "pages": 22,
+      "chunks": 68,
+      "turns": 72,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ada259da-8ccc-49ee-9c7a-c6ea9119c53b",
+      "pages": 41,
+      "chunks": 125,
+      "turns": 180,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d8c53ba0-2078-4a6c-aa30-cd6323a43556",
+      "pages": 26,
+      "chunks": 96,
+      "turns": 7,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ab62f26c-ac79-4dd6-94dd-463fe913f011",
+      "pages": 48,
+      "chunks": 177,
+      "turns": 30,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1a1156b8-52b2-40b4-adad-fcad84df7d43",
+      "pages": 44,
+      "chunks": 105,
+      "turns": 78,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0d58523d-e756-409c-b968-12ee790f4a21",
+      "pages": 56,
+      "chunks": 202,
+      "turns": 178,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-41d0c029-fdd9-4be9-a05c-44dfba995859",
+      "pages": 39,
+      "chunks": 129,
+      "turns": 108,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8dd77977-8637-4695-8f85-e9c02be8eb8d",
+      "pages": 88,
+      "chunks": 284,
+      "turns": 116,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b7bb14f2-7387-4315-b986-cb2b8a076d60",
+      "pages": 71,
+      "chunks": 239,
+      "turns": 193,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-abf6be71-8199-4ad1-8e44-60f2829c931c",
+      "pages": 72,
+      "chunks": 233,
+      "turns": 186,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-07de2486-b082-4c1b-b5b2-2d77208c89ab",
+      "pages": 93,
+      "chunks": 292,
+      "turns": 197,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-11c01d80-98d1-4f7c-a2bb-dbbc7fd57e0b",
+      "pages": 73,
+      "chunks": 246,
+      "turns": 151,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-febd18f7-3192-4618-ae2d-085a43bdf6df",
+      "pages": 69,
+      "chunks": 220,
+      "turns": 158,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8e0bbe70-549d-4747-b059-9d6596246988",
+      "pages": 82,
+      "chunks": 240,
+      "turns": 256,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c1de51c2-a4c6-4e9b-a243-79fb10c5a93c",
+      "pages": 59,
+      "chunks": 191,
+      "turns": 267,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4091ef5d-432e-4356-b2ad-d62bc2e5c906",
+      "pages": 94,
+      "chunks": 302,
+      "turns": 10,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-52aa854f-5f14-46bc-8e04-c966c06fed89",
+      "pages": 79,
+      "chunks": 264,
+      "turns": 177,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8e1319ad-dd18-414e-9703-269f2f901bf1",
+      "pages": 63,
+      "chunks": 192,
+      "turns": 324,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f4b566fb-f91d-4dc2-9062-41b561b3dc2f",
+      "pages": 50,
+      "chunks": 178,
+      "turns": 77,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d27e8631-9287-4163-9b5a-cebfd2c2cad4",
+      "pages": 64,
+      "chunks": 201,
+      "turns": 252,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-216060ac-7a41-427d-93dc-a540c325ab3e",
+      "pages": 75,
+      "chunks": 237,
+      "turns": 140,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2aab9637-ca28-4f17-9f6f-7d5a7ca46185",
+      "pages": 72,
+      "chunks": 243,
+      "turns": 111,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-26ecda39-05b7-4893-b652-171233dd7ff5",
+      "pages": 60,
+      "chunks": 205,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dab9ee6c-9d71-4d75-9684-b83e0b7b678e",
+      "pages": 71,
+      "chunks": 241,
+      "turns": 158,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-63094c24-569d-4c6b-bc1a-e115c8dd2bc3",
+      "pages": 60,
+      "chunks": 202,
+      "turns": 29,
+      "low_text_pages": 2,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e9d667bf-b3a3-453d-aaab-8dd3d4064f59",
+      "pages": 60,
+      "chunks": 201,
+      "turns": 145,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a8cc71d8-7e4b-42b4-b567-4d4fd25b49b7",
+      "pages": 67,
+      "chunks": 222,
+      "turns": 204,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5fbf71b9-ef8a-4292-8140-b3f513adf630",
+      "pages": 61,
+      "chunks": 187,
+      "turns": 165,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d29c1a73-700e-48ff-ad1b-e877d4970429",
+      "pages": 91,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 91,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-d0de2e3e-ba44-4266-ba14-c4662903c0ff",
+      "pages": 89,
+      "chunks": 277,
+      "turns": 153,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b4863d7f-d803-4216-a06d-bb558e836b3e",
+      "pages": 93,
+      "chunks": 290,
+      "turns": 160,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a839d5fc-d156-44a6-8169-e98e456beb69",
+      "pages": 64,
+      "chunks": 218,
+      "turns": 177,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-92dad6b3-9f00-41be-a14a-0cf787d2782d",
+      "pages": 81,
+      "chunks": 274,
+      "turns": 122,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f90a7666-039b-4741-a6fe-d4cf0858745a",
+      "pages": 97,
+      "chunks": 299,
+      "turns": 62,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bf156f0f-0543-4508-8061-2cc3606cc1e9",
+      "pages": 70,
+      "chunks": 238,
+      "turns": 171,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-91d994ba-c8d6-4b47-80ee-94e7e6dfce38",
+      "pages": 89,
+      "chunks": 284,
+      "turns": 94,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8eda6931-2a2d-480c-8193-fb5423c4f8f9",
+      "pages": 73,
+      "chunks": 246,
+      "turns": 243,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2d3a08b6-8bac-472e-93db-63d1025a71f8",
+      "pages": 87,
+      "chunks": 284,
+      "turns": 187,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-94fb5267-1513-4f6b-8f55-67b07357d3d9",
+      "pages": 102,
+      "chunks": 329,
+      "turns": 136,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3f738f24-d28d-41a3-a9ce-9f188be0427f",
+      "pages": 70,
+      "chunks": 243,
+      "turns": 214,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-48697611-05c7-4d39-84ee-bc979bafaf54",
+      "pages": 85,
+      "chunks": 278,
+      "turns": 159,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-73ec5404-4009-4727-96ea-8afaec90cef4",
+      "pages": 81,
+      "chunks": 262,
+      "turns": 182,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e78c4726-5b91-4b7d-b49c-8ea260619a06",
+      "pages": 63,
+      "chunks": 218,
+      "turns": 167,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a837bce0-998c-475e-875a-6074486680ba",
+      "pages": 79,
+      "chunks": 266,
+      "turns": 380,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7d773f29-6bf5-4d2c-b84a-55c2c5624dad",
+      "pages": 76,
+      "chunks": 256,
+      "turns": 245,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-525c2e86-16bb-4534-843a-959ba3d4e5c5",
+      "pages": 64,
+      "chunks": 223,
+      "turns": 82,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-809d77d6-a879-4a93-9c90-9080b77e2761",
+      "pages": 91,
+      "chunks": 275,
+      "turns": 102,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-46e0f06c-87a1-44af-9f8f-bffe053899d3",
+      "pages": 85,
+      "chunks": 274,
+      "turns": 257,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e100fc18-01b7-4586-9b26-de9badcc4553",
+      "pages": 95,
+      "chunks": 296,
+      "turns": 64,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b4b21bc4-c12d-42ca-9464-3d6405ae20a0",
+      "pages": 80,
+      "chunks": 268,
+      "turns": 43,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ab3a4101-210d-4ad5-8c42-a12bd3234e4c",
+      "pages": 64,
+      "chunks": 224,
+      "turns": 9,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-58dc8420-2251-4cfa-8158-606afff313ce",
+      "pages": 64,
+      "chunks": 214,
+      "turns": 154,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5df49eae-3c92-4a99-92f7-ad361781e7a1",
+      "pages": 85,
+      "chunks": 280,
+      "turns": 257,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6e11da26-fc3c-468f-8062-bcf8c0c42244",
+      "pages": 69,
+      "chunks": 228,
+      "turns": 156,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3d97ce2a-90da-4ee3-bebb-a9a54441da73",
+      "pages": 101,
+      "chunks": 301,
+      "turns": 76,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f7848cc6-490f-41cb-98cf-52c87dd66d7d",
+      "pages": 91,
+      "chunks": 300,
+      "turns": 307,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dfe6c104-4613-46d8-ab58-d9de5b67d887",
+      "pages": 75,
+      "chunks": 250,
+      "turns": 48,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2f2b2bba-7ca5-420f-b31e-279b61e70f4d",
+      "pages": 65,
+      "chunks": 224,
+      "turns": 93,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c0f3cf6f-4bdf-4fec-8a49-21fc0b25dea1",
+      "pages": 93,
+      "chunks": 299,
+      "turns": 245,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1d855ea5-d028-4f6f-a1bc-d54193f04fbf",
+      "pages": 96,
+      "chunks": 284,
+      "turns": 264,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8a2d1eb7-7804-4a5a-b403-53e65d5162e3",
+      "pages": 97,
+      "chunks": 302,
+      "turns": 140,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-503fe39b-62db-4ef4-82c1-7dd56a2c5e99",
+      "pages": 64,
+      "chunks": 219,
+      "turns": 59,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fd6985ca-df95-401e-9366-fe2b00c013e5",
+      "pages": 74,
+      "chunks": 243,
+      "turns": 95,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-dff533ae-cfa0-4ad1-995d-56d5b61dfe4f",
+      "pages": 80,
+      "chunks": 265,
+      "turns": 128,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-05d0bc73-2ba8-419b-940d-1b69c3537e27",
+      "pages": 82,
+      "chunks": 256,
+      "turns": 329,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-aded68e0-cc28-48a9-a1fc-f72d1d5c4995",
+      "pages": 90,
+      "chunks": 267,
+      "turns": 41,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-44861004-b318-411e-8647-32d9d6a8de52",
+      "pages": 84,
+      "chunks": 255,
+      "turns": 200,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f1d910e7-0b17-4b94-9e20-b4a23bf5b3b0",
+      "pages": 101,
+      "chunks": 292,
+      "turns": 125,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3eaa74f6-b561-4add-b25a-be13080df33f",
+      "pages": 86,
+      "chunks": 290,
+      "turns": 276,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f40e0fda-5a3a-4112-880b-df6d6ab84b12",
+      "pages": 74,
+      "chunks": 263,
+      "turns": 139,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d5e338db-ac3e-4c62-97b0-a088e1a56e2b",
+      "pages": 76,
+      "chunks": 263,
+      "turns": 31,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ef6452bc-e1dd-4b97-a829-31972f08b61d",
+      "pages": 91,
+      "chunks": 266,
+      "turns": 187,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1f91b2aa-ce7e-4324-ba84-3fb53aef43f0",
+      "pages": 66,
+      "chunks": 225,
+      "turns": 74,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a796d1e4-73ba-4e65-9d1c-833fe7ff6926",
+      "pages": 108,
+      "chunks": 330,
+      "turns": 249,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4bac690d-ee61-478a-94ae-80e5556bc7ff",
+      "pages": 95,
+      "chunks": 287,
+      "turns": 247,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4140ce01-076b-44fa-a45c-3b10f48060c3",
+      "pages": 99,
+      "chunks": 302,
+      "turns": 221,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3b5bc4da-9fb0-4b76-a693-e7c20ec22b7b",
+      "pages": 89,
+      "chunks": 286,
+      "turns": 181,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-96bcb201-42f4-41e0-9e29-3e7792c7d566",
+      "pages": 151,
+      "chunks": 459,
+      "turns": 73,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fa81d448-f2f6-40a8-b84c-aaa5940bc23f",
+      "pages": 129,
+      "chunks": 375,
+      "turns": 221,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1b40e837-8c7f-4ae4-bdff-344ebbe68de7",
+      "pages": 98,
+      "chunks": 294,
+      "turns": 278,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f276e5c9-0990-4201-86a5-437acd5427c2",
+      "pages": 88,
+      "chunks": 291,
+      "turns": 298,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-86de5b72-9e1e-4d88-9f97-fb263f00b1a6",
+      "pages": 96,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 96,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ed2a41cf-e03e-4919-85d9-01f8006d7d9b",
+      "pages": 155,
+      "chunks": 453,
+      "turns": 173,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-81efa075-d4c4-4c59-8c9f-7341f977014e",
+      "pages": 135,
+      "chunks": 406,
+      "turns": 222,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-600b3d36-485e-42ef-8c57-4d2ad4417b67",
+      "pages": 95,
+      "chunks": 291,
+      "turns": 45,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bbd9fb4d-0444-4384-9fcd-c1ce20bc736a",
+      "pages": 112,
+      "chunks": 348,
+      "turns": 178,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-458c18f3-a8fc-4df8-a013-e3c633d585d6",
+      "pages": 105,
+      "chunks": 318,
+      "turns": 168,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8228e0e0-6fe0-4069-8a0b-75eaee9270aa",
+      "pages": 85,
+      "chunks": 274,
+      "turns": 83,
+      "low_text_pages": 2,
+      "status": "ready"
+    },
+    {
+      "id": "debate-abff1e70-c67c-4ebe-94fd-731fde852a83",
+      "pages": 92,
+      "chunks": 287,
+      "turns": 31,
+      "low_text_pages": 3,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e92edcb9-4e6f-4ff1-9b67-64485470911e",
+      "pages": 115,
+      "chunks": 348,
+      "turns": 65,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-536d33a4-38ff-4329-82f3-a29962c919e9",
+      "pages": 112,
+      "chunks": 332,
+      "turns": 208,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3eda94e0-6c17-4878-ae07-10a6c99021f0",
+      "pages": 107,
+      "chunks": 361,
+      "turns": 95,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-5d5130dd-9e6d-4fdd-aea5-f00660eabb7a",
+      "pages": 43,
+      "chunks": 143,
+      "turns": 38,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-886dc36f-5f10-44a2-bec5-141d73f48bb4",
+      "pages": 47,
+      "chunks": 176,
+      "turns": 67,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-97b90b67-7d58-43b0-b7a4-45b9caf686c9",
+      "pages": 127,
+      "chunks": 384,
+      "turns": 88,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1263d485-da51-4f3a-95aa-08d306e770fc",
+      "pages": 130,
+      "chunks": 347,
+      "turns": 228,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9db6e02e-59bc-41c2-b8c3-bc1b27b336aa",
+      "pages": 91,
+      "chunks": 303,
+      "turns": 25,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b47a09e8-e533-44c4-8c9b-31dc1ec847f8",
+      "pages": 226,
+      "chunks": 129,
+      "turns": 0,
+      "low_text_pages": 172,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-4b0cf053-f906-42d9-be5d-8a9b3cf6bc3f",
+      "pages": 108,
+      "chunks": 338,
+      "turns": 93,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d5307186-8747-4e7c-878a-28f5bec92686",
+      "pages": 139,
+      "chunks": 406,
+      "turns": 149,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9f88dbe6-1413-4003-acc7-01bbe238a921",
+      "pages": 112,
+      "chunks": 364,
+      "turns": 37,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e883330e-dadb-44fd-ab3a-51776cc82bf6",
+      "pages": 160,
+      "chunks": 576,
+      "turns": 157,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-eb24d102-139e-421c-a16e-4af9443d36d2",
+      "pages": 151,
+      "chunks": 444,
+      "turns": 393,
+      "low_text_pages": 3,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c77e24c5-35b8-4856-a1ac-a148548a3261",
+      "pages": 81,
+      "chunks": 260,
+      "turns": 210,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-140411c7-62d3-4c84-b34c-5f6e6eeb0d87",
+      "pages": 165,
+      "chunks": 527,
+      "turns": 329,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-085cd83c-a0c9-4bca-89f0-e6648ee06269",
+      "pages": 83,
+      "chunks": 268,
+      "turns": 185,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4652099b-c622-4c2c-b723-7752955df17a",
+      "pages": 80,
+      "chunks": 261,
+      "turns": 236,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-438d16bd-510c-48e9-8c27-c445ead3abad",
+      "pages": 81,
+      "chunks": 251,
+      "turns": 235,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-651bcc5a-3b30-404b-8a9a-81664b7a6507",
+      "pages": 135,
+      "chunks": 463,
+      "turns": 101,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0e0ca8e7-e887-4965-bd01-d967ccd5aa84",
+      "pages": 57,
+      "chunks": 210,
+      "turns": 56,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-06e9a8ae-758c-4aaa-8144-42cffea27859",
+      "pages": 87,
+      "chunks": 270,
+      "turns": 167,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8d5544c1-697d-420e-9a0e-38ec4cc74e3a",
+      "pages": 91,
+      "chunks": 285,
+      "turns": 255,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7a23704c-8f07-4a8a-a595-998a49c151fc",
+      "pages": 90,
+      "chunks": 260,
+      "turns": 243,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-b24851b3-439d-45a0-9ffb-4c0c554a9554",
+      "pages": 86,
+      "chunks": 266,
+      "turns": 224,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-8b7b4f32-938d-479d-825d-01d6097c8ac0",
+      "pages": 91,
+      "chunks": 285,
+      "turns": 256,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-05867867-6d26-4d41-96da-1ef1b15a5751",
+      "pages": 85,
+      "chunks": 257,
+      "turns": 185,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-23b1d023-3bfb-4f6c-b5fe-8d9088d3c8cf",
+      "pages": 95,
+      "chunks": 296,
+      "turns": 240,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6918e1e5-bd86-4c97-98fb-30b56bb27914",
+      "pages": 85,
+      "chunks": 269,
+      "turns": 166,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-fc8051cb-856f-4bd9-a033-d6ec60ba7971",
+      "pages": 86,
+      "chunks": 265,
+      "turns": 132,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7425c192-2f33-487f-b480-5b864baf7c3d",
+      "pages": 82,
+      "chunks": 268,
+      "turns": 196,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0cb59ed4-b001-47c8-8d50-9647aab319bc",
+      "pages": 103,
+      "chunks": 310,
+      "turns": 237,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-251f8b82-7b4c-4f02-939b-28a3a9841236",
+      "pages": 98,
+      "chunks": 290,
+      "turns": 307,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-957b8e7c-e662-4ccc-844a-9f556d4950f4",
+      "pages": 90,
+      "chunks": 278,
+      "turns": 325,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9b812da5-279f-4ae3-bbd5-8481faeb7782",
+      "pages": 86,
+      "chunks": 259,
+      "turns": 150,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-582be9ae-c52b-472e-bc95-84f0a7d731e9",
+      "pages": 87,
+      "chunks": 264,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-da5e5fc6-ad51-4695-8e53-ae3492c72595",
+      "pages": 78,
+      "chunks": 242,
+      "turns": 133,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a99bcb10-2204-4e62-b6a2-284f3d0671bf",
+      "pages": 83,
+      "chunks": 283,
+      "turns": 62,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-04d3e9d7-de1d-4d35-b819-9719322cc394",
+      "pages": 90,
+      "chunks": 295,
+      "turns": 240,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4245c61c-1674-4f50-bfb8-0742d4bffd95",
+      "pages": 96,
+      "chunks": 276,
+      "turns": 262,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-84da0f96-4c47-4a23-b2c9-8fdddb4c8f98",
+      "pages": 100,
+      "chunks": 311,
+      "turns": 229,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-30f470a2-695a-4dec-b6d4-d2757ecf788d",
+      "pages": 101,
+      "chunks": 321,
+      "turns": 219,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e2b68465-d0dc-4b5a-930e-7e28eba14681",
+      "pages": 97,
+      "chunks": 299,
+      "turns": 205,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1f2a5ef8-2ea5-4401-bdb5-2be0a20706ac",
+      "pages": 81,
+      "chunks": 253,
+      "turns": 182,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-291ac766-c4ce-4f8f-8cbf-c3b217e5fd1b",
+      "pages": 98,
+      "chunks": 315,
+      "turns": 152,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-18851f2b-8d79-443c-b074-f5d10766877b",
+      "pages": 85,
+      "chunks": 260,
+      "turns": 214,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-3322e9ba-e528-49c4-822e-04f5eb94a848",
+      "pages": 91,
+      "chunks": 293,
+      "turns": 174,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-072ecbf0-1b3d-4e66-8500-f0ed432b24e0",
+      "pages": 96,
+      "chunks": 296,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-7f1e3215-8e00-4e2d-8498-f79406f52f88",
+      "pages": 102,
+      "chunks": 319,
+      "turns": 185,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-6337ceb7-b068-4e59-814a-cb5e4d3d4999",
+      "pages": 99,
+      "chunks": 295,
+      "turns": 215,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-149c2cc3-e1cf-4a86-82ae-02ffff114ea3",
+      "pages": 90,
+      "chunks": 284,
+      "turns": 255,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f68a1d2d-5fad-4a5c-8977-1774d712b721",
+      "pages": 95,
+      "chunks": 297,
+      "turns": 185,
+      "low_text_pages": 1,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2f9e24fb-eae6-4e4a-915c-7d6548553667",
+      "pages": 98,
+      "chunks": 290,
+      "turns": 130,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f3099fff-f25a-4f61-a97f-2c1cedd849d0",
+      "pages": 90,
+      "chunks": 279,
+      "turns": 107,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-f169087b-185a-4492-a09d-b05855ad5ad2",
+      "pages": 103,
+      "chunks": 302,
+      "turns": 212,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-bfe046f2-fc5b-4e9a-980c-bcb00876859a",
+      "pages": 83,
+      "chunks": 270,
+      "turns": 248,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-9966c630-9553-483b-b61e-0e477499364b",
+      "pages": 92,
+      "chunks": 293,
+      "turns": 159,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-25e7826e-0ec3-4182-b012-cbe742c6818f",
+      "pages": 99,
+      "chunks": 308,
+      "turns": 131,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a7d592fa-4d4e-4200-9c35-ce2006d61a66",
+      "pages": 51,
+      "chunks": 0,
+      "turns": 0,
+      "low_text_pages": 51,
+      "status": "ocr_pending"
+    },
+    {
+      "id": "debate-ffdb9cd8-46e7-496f-88a6-7b4ab7b699a1",
+      "pages": 119,
+      "chunks": 353,
+      "turns": 180,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-c19f1ea4-025f-4843-b4e3-7dd7ed878807",
+      "pages": 93,
+      "chunks": 304,
+      "turns": 119,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1426921a-43d5-4e63-a549-81fa2c735936",
+      "pages": 106,
+      "chunks": 332,
+      "turns": 143,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-481d9152-de63-4a17-bbdf-dbd3faefa329",
+      "pages": 113,
+      "chunks": 342,
+      "turns": 273,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e0e605d8-25ef-44a7-b49f-ae2da06703ba",
+      "pages": 108,
+      "chunks": 317,
+      "turns": 232,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-4935fe04-68bf-482a-9041-aa28b0cf3d6c",
+      "pages": 97,
+      "chunks": 304,
+      "turns": 156,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-74894e27-2f84-4c00-bd4b-6c39cc898ef1",
+      "pages": 103,
+      "chunks": 338,
+      "turns": 132,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-164ec3df-3022-4644-a72c-2591ad6911b8",
+      "pages": 117,
+      "chunks": 364,
+      "turns": 238,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d86bb883-d34c-41ed-a24f-a14e77ea94fb",
+      "pages": 122,
+      "chunks": 345,
+      "turns": 150,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ce538d5c-6d2b-4d05-b826-2bb852b9b6f5",
+      "pages": 94,
+      "chunks": 300,
+      "turns": 137,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0ea08179-585b-43fe-94df-379903747e80",
+      "pages": 110,
+      "chunks": 341,
+      "turns": 137,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-87d68359-3661-4e25-b1e0-88fb3965439d",
+      "pages": 114,
+      "chunks": 356,
+      "turns": 201,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-e93d532f-b5d6-4f68-8ca4-df54062dc0fd",
+      "pages": 109,
+      "chunks": 333,
+      "turns": 256,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-ebf06ca3-6eab-4b56-91a8-2681650d068a",
+      "pages": 112,
+      "chunks": 322,
+      "turns": 159,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-d6512f8f-04cf-44c4-abf2-07db4be11217",
+      "pages": 110,
+      "chunks": 360,
+      "turns": 161,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-1c52807d-2d84-402b-af15-26302015dcb4",
+      "pages": 129,
+      "chunks": 384,
+      "turns": 158,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-af3e4e02-7dcb-4ac5-8c26-3e26dfc32cdb",
+      "pages": 115,
+      "chunks": 345,
+      "turns": 134,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-2b90251c-63f7-4c6f-a220-8f89506e3908",
+      "pages": 110,
+      "chunks": 337,
+      "turns": 181,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-a88653a4-1186-401f-8e3e-21ec7c506cf3",
+      "pages": 173,
+      "chunks": 497,
+      "turns": 280,
+      "low_text_pages": 0,
+      "status": "ready"
+    },
+    {
+      "id": "debate-0fa74322-2e7e-4225-8ce4-7aaeb5ec2c8b",
+      "pages": 188,
+      "chunks": 575,
+      "turns": 178,
+      "low_text_pages": 0,
+      "status": "ready"
+    }
+  ],
+  "errors": []
+}

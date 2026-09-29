@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Hello",
+    "answer": "Hello! I am glad you stopped by. I am here to help you explore Dr. Ambedkar’s world.",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [],
+    "elapsed_ms": 352,
+    "timings": {
+      "routing_ms": 352
+    },
+    "grounding": {
+      "status": "social",
+      "checks": [],
+      "notice": null
+    }
+  },
+  {
+    "question": "What are you?",
+    "answer": "I am DHAROHAR, your warm guide to Dr. B. R. Ambedkar’s archive. I am an AI, here to welcome your curiosity.",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [],
+    "elapsed_ms": 225,
+    "timings": {
+      "routing_ms": 225
+    },
+    "grounding": {
+      "status": "social",
+      "checks": [],
+      "notice": null
+    }
+  },
+  {
+    "question": "Why did Ambedkar argue for the abolition of caste?",
+    "answer": "I couldn’t finish that answer just now. Please try again in a moment.",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [],
+    "elapsed_ms": 3637,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 1957,
+      "generation_ms": 1339
+    },
+    "grounding": {
+      "status": "unavailable",
+      "checks": [],
+      "notice": "The answer service is temporarily unavailable; no unverified answer was substituted."
+    }
+  },
+  {
+    "question": "What is constitutional morality?",
+    "answer": "I couldn’t finish that answer just now. Please try again in a moment.",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [],
+    "elapsed_ms": 2221,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 194,
+      "generation_ms": 1636
+    },
+    "grounding": {
+      "status": "unavailable",
+      "checks": [],
+      "notice": "The answer service is temporarily unavailable; no unverified answer was substituted."
+    }
+  },
+  {
+    "question": "What is the weather in Delhi today?",
+    "answer": "Hello! I'm here to help with information about B. R. Ambedkar, his life, ideas, and writings. How can I assist you with that today?",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [],
+    "elapsed_ms": 487,
+    "timings": {
+      "routing_ms": 487
+    },
+    "grounding": {
+      "status": "off_topic",
+      "checks": [],
+      "notice": null
+    }
+  },
+  {
+    "question": "संवैधानिक नैतिकता क्या है?",
+    "answer": "संवैधानिक नैतिकता (constitutional morality) का अर्थ है संविधान के नियमों और रूपों के प्रति गहरी श्रद्धा, साथ ही अधिकारियों के सार्वजनिक कार्यों की स्वतंत्र रूप से आलोचना करने की आदत और यह विश्वास कि संविधान का सम्मान सभी पक्षों द्वारा समान रूप से किया जाएगा। स्रोत [2] के अनुसार, जी. ग्रोते ने इसे 'संवैधानिक रूपों के प्रति सर्वोच्च सम्मान' के रूप में परिभाषित किया, जो अधिकारियों की आज्ञाकारिता को बढ़ावा देता है, लेकिन साथ ही खुले भाषण और कानूनी नियंत्रण के अधीन कार्रवाई की अनुमति देता है। [1]\n\nइसका सीधा मतलब यह है कि एक लोकतांत्रिक व्यवस्था को शांतिपूर्ण ढंग से चलाने के लिए यह नैतिकता समाज में फैलनी चाहिए। स्रोत [4] स्पष्ट करता है कि यह नैतिकता केवल बहुमत तक सीमित नहीं रहनी चाहिए, बल्कि पूरे समाज में व्याप्त होनी चाहिए, अन्यथा कोई भी शक्तिशाली अल्पसंख्यक समूह स्वतंत्र संस्थानों के कामकाज को असंभव बना सकता है। इसके अलावा, स्रोत [2] बताता है कि प्रशासन का स्वरूप संविधान के स्वरूप के अनुरूप होना चाहिए; अन्यथा बिना संविधान बदले भी प्रशासन को बदलकर उसके मूल भाव के विपरीत किया जा सकता है। [1] [2]",
+    "language": "hi",
+    "provider": "sarvam",
+    "citations": [
+      {
+        "id": 1,
+        "document_id": "writing-volume_13",
+        "title": "Writings & Speeches · Volume 13",
+        "page": 93,
+        "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+      },
+      {
+        "id": 2,
+        "document_id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+        "title": "Constituent Assembly Draft Making Debates · 4-Nov-1948",
+        "page": 42,
+        "quote": "ffusion of constitutional morality, not merely among the majority of any community but throughout the whole, is the indispensable condition of government at once free and peaceable; since even any powerful and obstinate minority may render the working of a free institution impracticable, without being strong enough to conquer ascendency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrain edcen sure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear.) While everybody recognizes the necessity of the diffusion of Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution."
+      }
+    ],
+    "elapsed_ms": 2577,
+    "timings": {
+      "routing_ms": 191,
+      "retrieval_ms": 614,
+      "generation_ms": 1480,
+      "verification_ms": 292
+    },
+    "grounding": {
+      "status": "source_checked",
+      "checks": [
+        "Source IDs validated",
+        "Source-only synthesis",
+        "Batched support review"
+      ],
+      "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+    }
+  }
+]

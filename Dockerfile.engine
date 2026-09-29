@@ -1,0 +1,12 @@
+# Stable Debian release; apt receives Debian's current package/security updates.
+# This is a reproducible build recipe, not a byte-identical frozen image digest.
+FROM debian:bookworm-slim
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends \
+       tesseract-ocr tesseract-ocr-eng tesseract-ocr-hin tesseract-ocr-mar espeak-ng \
+    && rm -rf /var/lib/apt/lists/*
+ENV LANG=C.UTF-8
+USER 10001:10001
+WORKDIR /tmp
+# The app passes image/text input through docker exec stdin. No ports or mounts.
+CMD ["sleep", "infinity"]

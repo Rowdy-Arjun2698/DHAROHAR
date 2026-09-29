@@ -1,0 +1,161 @@
+[
+  {
+    "question": "Why did Ambedkar argue for the abolition of caste?",
+    "answer": "Ambedkar argued for the abolition of caste because he saw it as a fundamental obstacle to democracy and social unity. He believed that the caste system denies the very ideals of society by preventing people from sharing common experiences or bonds of sympathy. In his view, Indian society was so deeply embedded in caste that it dictated every aspect of life, from daily interactions to political choices. [1]\n\nThis meant that individuals could not eat, marry, or even touch others outside their caste, and politics became a matter of voting along caste lines rather than for the common good. Even parties like the Congress, he noted, exploited caste by fielding candidates from the dominant local caste. Without abolishing caste, real solidarity among Hindus was impossible, and the system would continue to enforce humiliation and division. [1] [2]",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [
+      {
+        "id": 1,
+        "document_id": "writing-volume_17_03",
+        "title": "Writings & Speeches · Volume 17 · Part 3",
+        "page": 549,
+        "quote": "520 DR. BABASAHEB AMBEDKAR : WRITINGS AND SPEECHES and have no common experience to share and have no bond of sympathy. Given this fact it is not necessary to argue the point. The existence of the Caste System is a standing denial of the existence of those ideals of society and therefore of democracy. Indian Society is so imbeded in the Caste System that every thing is organized on the basis of caste. Enter Indain Society and you can see caste in its glaring form. An Indian cannot eat or marry with an Indian simply because he or she does not belong to his or her caste. An Indian cannot touch an Indian because he or she does not belong to his or her caste. Go and enter politics and you can see caste reflected therein. How does an Indian vote in an election? He votes for a candidate who belongs to his own caste and no other. Even the Indian Congress exploits the Caste System for election purpose as no other political party in India does. Examine the lists of its candidates in relation to the social composition of the constituencies and it will be found that the candidate belongs to the caste which is the largest one in that constituency. The Congress, as a matter of fact, is upholding the Caste System against which it is outworldly raising a outcry against the existence of caste. Go into the field of industry. What will you find ? You"
+      },
+      {
+        "id": 2,
+        "document_id": "writing-volume_05",
+        "title": "Writings & Speeches · Volume 5",
+        "page": 440,
+        "quote": ". With the castes in existence, it is impossible and if practised would be harmful to the real Sanghatan and solidarity of the Hindus. But somehow the most revolutionary and ardent reformer of the Hindu society shies at the idea of abolition of the caste and advocates such puerile measures as the reconversion of the converted Hindu, the changing of the diet and the starting of Akhadas. Some day it will dawn upon the Hindus that they cannot save their society and also preserve their caste. It is to be hoped that that day is not far off. zz"
+      }
+    ],
+    "elapsed_ms": 2786,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 1473,
+      "generation_ms": 941,
+      "verification_ms": 372
+    },
+    "grounding": {
+      "status": "source_checked",
+      "checks": [
+        "Source IDs validated",
+        "Source-only synthesis",
+        "Batched support review"
+      ],
+      "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+    }
+  },
+  {
+    "question": "What is constitutional morality?",
+    "answer": "Constitutional morality is a deep reverence for the forms of the Constitution, combined with open criticism of authorities acting within those forms and a citizen’s confidence that constitutional rules remain sacred even to political opponents. [1] [2]\n\nThis means people must obey authority only when it operates inside constitutional boundaries, while freely censuring public acts and trusting that the framework will be honored in bitter party contests. It is not a natural sentiment but something that must be cultivated, because without it a democracy is merely a skeleton of legal provisions lacking the flesh that makes it work. The form of administration must also match the Constitution’s form, since changing administrative practices alone can make governance inconsistent with the Constitution’s spirit. [1] [2]",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [
+      {
+        "id": 1,
+        "document_id": "debate-fb6d2855-64f4-42e8-ab94-0b33d120e8b2",
+        "title": "Constituent Assembly Draft Making Debates · 4-Nov-1948",
+        "page": 42,
+        "quote": "ffusion of constitutional morality, not merely among the majority of any community but throughout the whole, is the indispensable condition of government at once free and peaceable; since even any powerful and obstinate minority may render the working of a free institution impracticable, without being strong enough to conquer ascendency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrain edcen sure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear.) While everybody recognizes the necessity of the diffusion of Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution."
+      },
+      {
+        "id": 2,
+        "document_id": "writing-volume_13",
+        "title": "Writings & Speeches · Volume 13",
+        "page": 93,
+        "quote": "ency for themselves.” By constitutional morality Grote meant “a paramount reverence for the forms of the Constitution, enforcing obedience to authority acting under and within these forms yet combined with the habit of open speech, of action subject only to definite legal control, and unrestrained censure of those very authorities as to all their public acts combined too with a perfect confidence in the bosom of every citizen amidst the bitterness of party contest that the forms of the Constitution will not be less sacred in the eyes of his opponents than in his own.” (Hear, hear). While everybody recognizes the necessity of the diffusion of the Constitutional morality for the peaceful working of a democratic Constitution, there are two things interconnected with it which are not, unfortunately, generally recognized. One is that the form of administration has a close connection with the form of the Constitution. The form of the administration must be appropriate to and in the same sense as the form of the Constitution. The other is that it is perfectly possible to prevent the Constitution, without changing its form by merely changing the form of the administration and to make it inconsistent and opposed to the spirit of the Constitution. It follows that it is only where people are saturated with Constitutional morality such as the"
+      }
+    ],
+    "elapsed_ms": 1744,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 34,
+      "generation_ms": 1325,
+      "verification_ms": 385
+    },
+    "grounding": {
+      "status": "source_checked",
+      "checks": [
+        "Source IDs validated",
+        "Source-only synthesis",
+        "Batched support review"
+      ],
+      "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+    }
+  },
+  {
+    "question": "Did Ambedkar invent the internet in 1922?",
+    "answer": "No, Dr. Ambedkar did not invent the internet in 1922. The provided records do not mention him creating any such technology or being involved in its development during that period. [1] [2]",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [
+      {
+        "id": 1,
+        "document_id": "writing-volume_03",
+        "title": "Writings & Speeches · Volume 3",
+        "page": 114,
+        "quote": "there is caste its existence must be signalized by a distinguishing head-dress and by a distinguishing name. If there is a sect it must have its headmark. There are 92 sects in India. Each has a separate mark of itself. To invent 92 marks each one different from the other is a colossal business. The very impossibility of it would have made the most ingenious person to give up the task. Yet, the Hindus"
+      },
+      {
+        "id": 2,
+        "document_id": "writing-volume_12",
+        "title": "Writings & Speeches · Volume 12",
+        "page": 16,
+        "quote": "Facsimile of Dr. Ambedkar’s handwriting during his student-days in America in the year 1915-16 ; pages from ‘ Ancient Indian Commerce’."
+      }
+    ],
+    "elapsed_ms": 722,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 41,
+      "generation_ms": 397,
+      "verification_ms": 284
+    },
+    "grounding": {
+      "status": "source_checked",
+      "checks": [
+        "Source IDs validated",
+        "Source-only synthesis",
+        "Batched support review"
+      ],
+      "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+    }
+  },
+  {
+    "question": "Explain social democracy in simple words.",
+    "answer": "Social democracy, in simple terms, is a way of life built on liberty, equality, and fraternity working together as a single unit. It means that political freedom alone is not enough; we must also ensure that ordinary people experience equality and respect in their daily lives. Without this deeper social foundation, a democratic government cannot truly function or last. [1] [2]\n\nThink of it like a three-legged stool: if you remove or weaken one leg, the whole thing collapses. Liberty without equality lets a few dominate the many, while equality without liberty crushes personal initiative. Fraternity, or a shared sense of respect among people, is what makes liberty and equality natural rather than forced by police. In India, this was especially needed to overcome a society built on graded inequality and rigid social barriers. [1] [3]",
+    "language": "en",
+    "provider": "sarvam",
+    "citations": [
+      {
+        "id": 1,
+        "document_id": "debate-aad33de6-ec92-47a9-a8b5-16bab1d210fc",
+        "title": "Constituent Assembly Draft Making Debates · 25-Nov-1949",
+        "page": 60,
+        "quote": "thing we must do is not to be content with mere political democracy. We must make our political democracy a social democracy as well. Political democracy cannot last unless there lies at the base of it social democracy. What does social democracy me? It means a way of life which recognizes liberty, equality and fraternity as the principles of life. These principles of liberty, equality and fraternity are not to be treated as separate items in a trinity. They form a union of trinity in the sense that to divorce one from the other is to defeat the very purpose of democracy. Liberty cannot be divorced from equality, equality cannot be divorced from liberty. Nor can liberty and equality be divorced from fraternity. Without equality, liberty would produce the supremacy of the few over the many. Equality without liberty would kill individual initiative. Without fraternity, liberty and equality could not become a natural course of things. It would require a constable to enforce them. We must begin by acknowledging the fact that there is complete absence of two things in Indian Society. One of these is equality. On the social plane, we have in India a society based on the principle of graded inequality which means elevation for some and degradation for others. On the economic plane, we have a society in which there are some who have immense wealth as against many who live"
+      },
+      {
+        "id": 2,
+        "document_id": "writing-volume_01",
+        "title": "Writings & Speeches · Volume 1",
+        "page": 237,
+        "quote": "le. Their contention was founded on a series of fallacies. A democratic form of Government presupposes a democratic form of society. The formal framework of democracy is of no value and would indeed be a misfit if there was no social democracy. The politicals never realized that democracy was not a form of Government : it was essentially a form of society. It may not be necessary for a democratic society to be marked by unity, by community of purpose, by loyalty to public ends and by mutuality of sympathy. But it does unmistakably involve two things. The first is an attitude of mind, an attitude of respect and equality towards their fellows. The second is a social organization free from rigid social barriers. Democracy is incompatible and inconsistent with isolation and exclusiveness, resulting in the distinction"
+      },
+      {
+        "id": 3,
+        "document_id": "writing-volume_02",
+        "title": "Writings & Speeches · Volume 2",
+        "page": 12,
+        "quote": "An ideal society should be mobile, should be full of channels for conveying a change taking place in one part to other parts. In an ideal society there should be many interests consciously communicated and shared. There should be varied and free points of contact with other modes of association. In other words there should be social endosmosis. This is fraternity, which is only another name for democracy. Democracy is not merely a form of Government. It is primarily a mode of associated living, of conjoint communicated experience. It is essentially an attitude of respect and reverence towards fellowmen. - Dr. B. R. Ambedkar in ‘Annihilation of Caste’"
+      }
+    ],
+    "elapsed_ms": 1827,
+    "timings": {
+      "routing_ms": 0,
+      "retrieval_ms": 674,
+      "generation_ms": 802,
+      "verification_ms": 351
+    },
+    "grounding": {
+      "status": "source_checked",
+      "checks": [
+        "Source IDs validated",
+        "Source-only synthesis",
+        "Batched support review"
+      ],
+      "notice": "An AI explanation grounded in the linked pages. Please check the original for important details."
+    }
+  }
+]

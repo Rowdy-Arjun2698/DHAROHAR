@@ -1,0 +1,96 @@
+{
+  "revision": "c10ece1aade47bb51c153c893d14e5bf8e5b7117",
+  "notice": "Synthetic narrators, not replicas of historical speakers. Voice-specific dataset licences are included; Ryan and Hindi models have noncommercial conditions. Review rights before a commercial release. Piper runtime is GPL-3.0.",
+  "assets": [
+    {
+      "path": "data/models/piper/en_US-ryan-medium.onnx",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ryan/medium/en_US-ryan-medium.onnx",
+      "bytes": 63201294,
+      "sha256": "abf4c274862564ed647ba0d2c47f8ee7c9b717d27bdad9219100eb310db4047a"
+    },
+    {
+      "path": "data/models/piper/en_US-ryan-medium.onnx.json",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ryan/medium/en_US-ryan-medium.onnx.json",
+      "bytes": 4883,
+      "sha256": "44034c056cb15681b2ad494307c7f3f2e4499d1253c700c711fa0a4607ffe78d"
+    },
+    {
+      "path": "data/models/piper/en_US-ryan-medium-MODEL_CARD.md",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ryan/medium/MODEL_CARD",
+      "bytes": 306,
+      "sha256": "3a24ae5f7aa856199f338ad9af784cda796734f397f7e1b4a1bd3c07d06945b1"
+    },
+    {
+      "path": "data/models/piper/en_US-ljspeech-medium.onnx",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx",
+      "bytes": 63531379,
+      "sha256": "6f52a751e2349abe7a76735eb09dc1875298c77ea2342ffd2fef79ff81b87f22"
+    },
+    {
+      "path": "data/models/piper/en_US-ljspeech-medium.onnx.json",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ljspeech/medium/en_US-ljspeech-medium.onnx.json",
+      "bytes": 4972,
+      "sha256": "141d612cc0a95ed7efc1ca936b845c2364967f2e9217c5dbfcf69fc4d6c65860"
+    },
+    {
+      "path": "data/models/piper/en_US-ljspeech-medium-MODEL_CARD.md",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_US/ljspeech/medium/MODEL_CARD",
+      "bytes": 517,
+      "sha256": "fbee1529c89d36b3fe76d7e9f3f832dce17f44900a52d76a9bda735654766b4d"
+    },
+    {
+      "path": "data/models/piper/en_GB-alan-medium.onnx",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_GB/alan/medium/en_GB-alan-medium.onnx",
+      "bytes": 63201294,
+      "sha256": "0a309668932205e762801f1efc2736cd4b0120329622adf62be09e56339d3330"
+    },
+    {
+      "path": "data/models/piper/en_GB-alan-medium.onnx.json",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_GB/alan/medium/en_GB-alan-medium.onnx.json",
+      "bytes": 4888,
+      "sha256": "c0f0d124e5895c00e7c03b35dcc8287f319a6998a365b182deb5c8e752ee8c1e"
+    },
+    {
+      "path": "data/models/piper/en_GB-alan-medium-MODEL_CARD.md",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/en/en_GB/alan/medium/MODEL_CARD",
+      "bytes": 320,
+      "sha256": "abcbc3e961124398911436acd9eaaa0ab167cdf221d5a24146aa08732c52630f"
+    },
+    {
+      "path": "data/models/piper/hi_IN-pratham-medium.onnx",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/pratham/medium/hi_IN-pratham-medium.onnx",
+      "bytes": 63516050,
+      "sha256": "169964b0871667f6793416d4b35e97357a68ba1ad01df8580c28048989ee7693"
+    },
+    {
+      "path": "data/models/piper/hi_IN-pratham-medium.onnx.json",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/pratham/medium/hi_IN-pratham-medium.onnx.json",
+      "bytes": 4970,
+      "sha256": "b68edd2cd7950dd436314013b7cd12e9699e5a3f6fe5af5af94294cf6aa7b9fd"
+    },
+    {
+      "path": "data/models/piper/hi_IN-pratham-medium-MODEL_CARD.md",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/pratham/medium/MODEL_CARD",
+      "bytes": 304,
+      "sha256": "89cf491ea99e69b27c94599cecea3f0fc6aeacb30f4ccdb12897f659868df29e"
+    },
+    {
+      "path": "data/models/piper/hi_IN-priyamvada-medium.onnx",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/priyamvada/medium/hi_IN-priyamvada-medium.onnx",
+      "bytes": 63516050,
+      "sha256": "aa63bcf2cd493b55a450f280e23cf77f03afc9af7015e6e5acd43b652f166c88"
+    },
+    {
+      "path": "data/models/piper/hi_IN-priyamvada-medium.onnx.json",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/priyamvada/medium/hi_IN-priyamvada-medium.onnx.json",
+      "bytes": 4973,
+      "sha256": "5efc0ccf7529f3528996d46e0fac1f969f681d44a8e55bfa6236ff8841b5d52d"
+    },
+    {
+      "path": "data/models/piper/hi_IN-priyamvada-medium-MODEL_CARD.md",
+      "url": "https://huggingface.co/rhasspy/piper-voices/resolve/c10ece1aade47bb51c153c893d14e5bf8e5b7117/hi/hi_IN/priyamvada/medium/MODEL_CARD",
+      "bytes": 307,
+      "sha256": "8ce0324466010a59127fe8cab16416befcca136abf4b57ebd8ad5a2033c2021e"
+    }
+  ]
+}

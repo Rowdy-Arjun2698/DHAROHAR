@@ -1,0 +1,113 @@
+{
+  "documents": 528,
+  "pages": 46472,
+  "indexed_chunks": 120694,
+  "embedded_chunks": 120694,
+  "by_category": {
+    "debates": 505,
+    "writings": 20,
+    "audio": 3
+  },
+  "ingestion": {
+    "id": "import",
+    "state": "complete",
+    "message": "505 debate attempts finished; 0 errors. OCR assessment recorded per document.",
+    "updated_at": "2026-09-25 16:13:46"
+  },
+  "jobs": {
+    "import": {
+      "id": "import",
+      "state": "complete",
+      "message": "505 debate attempts finished; 0 errors. OCR assessment recorded per document.",
+      "updated_at": "2026-09-25 16:13:46"
+    },
+    "audio-import": {
+      "id": "audio-import",
+      "state": "complete",
+      "message": "Imported 3 official archival audio copies for local evaluation; one historical excerpt and two narrated works.",
+      "updated_at": "2026-09-25 17:03:13"
+    },
+    "ocr": {
+      "id": "ocr",
+      "state": "complete",
+      "message": "3736 pages OCR processed; 0 errors. Text remains unreviewed.",
+      "updated_at": "2026-09-25 23:30:22"
+    },
+    "embeddings": {
+      "id": "embeddings",
+      "state": "complete",
+      "message": "5869 new passages encoded",
+      "updated_at": "2026-09-25 23:30:28"
+    }
+  },
+  "ai": {
+    "ready": true,
+    "model": "sarvam-105b-conversations",
+    "provider": "sarvam"
+  },
+  "voice": {
+    "stt": true,
+    "tts": true,
+    "sarvam": true,
+    "mode": "sarvam",
+    "languages": [
+      "en",
+      "hi",
+      "mr",
+      "gu",
+      "bn",
+      "ta",
+      "te",
+      "kn",
+      "ml",
+      "pa"
+    ],
+    "notice": "Sarvam neural voices · synthetic narration"
+  },
+  "languages": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "hi",
+      "name": "Hindi"
+    },
+    {
+      "code": "mr",
+      "name": "Marathi"
+    },
+    {
+      "code": "gu",
+      "name": "Gujarati"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali"
+    },
+    {
+      "code": "ta",
+      "name": "Tamil"
+    },
+    {
+      "code": "te",
+      "name": "Telugu"
+    },
+    {
+      "code": "kn",
+      "name": "Kannada"
+    },
+    {
+      "code": "ml",
+      "name": "Malayalam"
+    },
+    {
+      "code": "pa",
+      "name": "Punjabi"
+    }
+  ],
+  "source_notes": [
+    "Local originals remain readable while search indexing and OCR continue.",
+    "Translations and summaries are machine generated and labelled."
+  ]
+}

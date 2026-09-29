@@ -1,0 +1,23 @@
+{
+  "speaker_examples": [
+    {
+      "speaker": "Dr. B. R. Ambedkar",
+      "translation": "मैं इस प्रस्ताव पर चर्चा करने के लिए तैयार हूँ।",
+      "seconds": 0.766
+    },
+    {
+      "speaker": "Shrimati Hansa Mehta",
+      "translation": "मैं इस प्रस्ताव पर चर्चा करने के लिए तैयार हूँ।",
+      "seconds": 0.608
+    }
+  ],
+  "page": {
+    "document_id": "writing-volume_13",
+    "page": 93,
+    "first_seconds": 2.727,
+    "cached_seconds": 0.012,
+    "nonempty": true,
+    "cache_matches": true,
+    "language": "hi"
+  }
+}
