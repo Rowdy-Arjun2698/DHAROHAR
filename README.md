@@ -1,7 +1,7 @@
 # DHAROHAR AI
 
 An Ambedkar archive built around **Discover → Overview → Read or Listen → Ask**.
-
+**Deployed Project** https://dharohar-seven.vercel.app/
 **Open:** http://127.0.0.1:8010  
 **This computer:** `C:\Users\Administrator\Desktop\DharoharAI`  
 **Start:** `Start-DHAROHAR.cmd` or `scripts\Start-DHAROHAR.ps1`.
